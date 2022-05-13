@@ -1,0 +1,771 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Lyrika",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "Torquato Tasso",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-08-12T00:00:00.000Z",
+    "published": "2021-08-12T08:17:51.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_090.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/lyrika_092.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/OBALKA01-0004601932.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "I",
+      "children": [
+        {
+          "title": "Na štíhlém čele chvěl se porozpleten",
+          "href": "OEBPS/Text/lyrika_007.xhtml#_idParaDest-2"
+        },
+        {
+          "title": "Viděl jsem vázat květy do kytice",
+          "href": "OEBPS/Text/lyrika_008.xhtml#_idParaDest-3"
+        },
+        {
+          "title": "„A v čem mám za své služby dík, můj Pane?“",
+          "href": "OEBPS/Text/lyrika_009.xhtml#_idParaDest-4"
+        },
+        {
+          "title": "Krásná je paní, když jí vánek sladce",
+          "href": "OEBPS/Text/lyrika_010.xhtml#_idParaDest-5"
+        },
+        {
+          "title": "Radosti pro mne není",
+          "href": "OEBPS/Text/lyrika_011.xhtml#_idParaDest-6"
+        },
+        {
+          "title": "Ach, nevydržím dlouho",
+          "href": "OEBPS/Text/lyrika_012.xhtml#_idParaDest-7"
+        },
+        {
+          "title": "Je-li mé srdce s vámi, tak jak touží",
+          "href": "OEBPS/Text/lyrika_013.xhtml#_idParaDest-8"
+        },
+        {
+          "title": "Vánku, jenž tady tančíš kolem hravě",
+          "href": "OEBPS/Text/lyrika_014.xhtml#_idParaDest-9"
+        },
+        {
+          "title": "Na nebi vidím hvězdy, míhající",
+          "href": "OEBPS/Text/lyrika_015.xhtml#_idParaDest-10"
+        },
+        {
+          "title": "Zrcadlo z křišťálu jsem dal své paní",
+          "href": "OEBPS/Text/lyrika_016.xhtml#_idParaDest-11"
+        },
+        {
+          "title": "Dáš-li mi, Lásko, jednou pohladit",
+          "href": "OEBPS/Text/lyrika_017.xhtml#_idParaDest-12"
+        },
+        {
+          "title": "Není to ona ručka",
+          "href": "OEBPS/Text/lyrika_018.xhtml#_idParaDest-13"
+        },
+        {
+          "title": "Jako si Alfeus už věky věků",
+          "href": "OEBPS/Text/lyrika_019.xhtml#_idParaDest-14"
+        },
+        {
+          "title": "V té dálce, lásko má",
+          "href": "OEBPS/Text/lyrika_020.xhtml#_idParaDest-15"
+        },
+        {
+          "title": "V té dálce, srdce mé",
+          "href": "OEBPS/Text/lyrika_021.xhtml#_idParaDest-16"
+        },
+        {
+          "title": "Žil jsem — a Láska s blahou Nadějí",
+          "href": "OEBPS/Text/lyrika_022.xhtml#_idParaDest-17"
+        },
+        {
+          "title": "Až jednou už ta světla a tu kštici",
+          "href": "OEBPS/Text/lyrika_023.xhtml#_idParaDest-18"
+        },
+        {
+          "title": "Až spatřím v tom svém rozevlátém vlasu",
+          "href": "OEBPS/Text/lyrika_024.xhtml#_idParaDest-19"
+        },
+        {
+          "title": "Viděl jsem na vás, nebo se mi zdálo",
+          "href": "OEBPS/Text/lyrika_025.xhtml#_idParaDest-20"
+        },
+        {
+          "title": "Tak jako plavec podle hvězd, když vzplanou",
+          "href": "OEBPS/Text/lyrika_026.xhtml#_idParaDest-21"
+        },
+        {
+          "title": "V žárlivé lásce třeštím tisíc očí",
+          "href": "OEBPS/Text/lyrika_027.xhtml#_idParaDest-22"
+        }
+      ],
+      "href": "OEBPS/Text/lyrika_006.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "II",
+      "children": [
+        {
+          "title": "Tam, kde zdi, sloupy nebrání už zraku",
+          "href": "OEBPS/Text/lyrika_029.xhtml#_idParaDest-24"
+        },
+        {
+          "title": "Pastevče, který jdeš tou noční tmou",
+          "href": "OEBPS/Text/lyrika_030.xhtml#_idParaDest-25"
+        },
+        {
+          "title": "Sotva se úsvit brzy ráno vzbudí",
+          "href": "OEBPS/Text/lyrika_031.xhtml#_idParaDest-26"
+        },
+        {
+          "title": "Slyš, vlny šepotají",
+          "href": "OEBPS/Text/lyrika_032.xhtml#_idParaDest-27"
+        },
+        {
+          "title": "Seděl jsem jednou sám a samotinký",
+          "href": "OEBPS/Text/lyrika_033.xhtml#_idParaDest-28"
+        },
+        {
+          "title": "Srdce jste na mně chtěla",
+          "href": "OEBPS/Text/lyrika_034.xhtml#_idParaDest-29"
+        },
+        {
+          "title": "Jestli vás ve mně Láska",
+          "href": "OEBPS/Text/lyrika_035.xhtml#_idParaDest-30"
+        },
+        {
+          "title": "Na cestě zpět, má paní",
+          "href": "OEBPS/Text/lyrika_036.xhtml#_idParaDest-31"
+        },
+        {
+          "title": "Když přestal, Lásko, na můj sladký oheň",
+          "href": "OEBPS/Text/lyrika_037.xhtml#_idParaDest-32"
+        },
+        {
+          "title": "Když mlčím, bolest roste",
+          "href": "OEBPS/Text/lyrika_038.xhtml#_idParaDest-33"
+        },
+        {
+          "title": "Ten strůmek, který na počátku máje",
+          "href": "OEBPS/Text/lyrika_039.xhtml#_idParaDest-34"
+        },
+        {
+          "title": "Láska chce, abych věčně",
+          "href": "OEBPS/Text/lyrika_040.xhtml#_idParaDest-35"
+        }
+      ],
+      "href": "OEBPS/Text/lyrika_028.xhtml#_idParaDest-23"
+    },
+    {
+      "title": "III",
+      "children": [
+        {
+          "title": "Odlétáš, vlaštovko, a pak se zas",
+          "href": "OEBPS/Text/lyrika_042.xhtml#_idParaDest-37"
+        },
+        {
+          "title": "Jak Proteus či mág",
+          "href": "OEBPS/Text/lyrika_043.xhtml#_idParaDest-38"
+        },
+        {
+          "title": "Smavé a krásné oči",
+          "href": "OEBPS/Text/lyrika_044.xhtml#_idParaDest-39"
+        },
+        {
+          "title": "Spatřil bůh lásky něčí vlas a řekl",
+          "href": "OEBPS/Text/lyrika_045.xhtml#_idParaDest-40"
+        },
+        {
+          "title": "Květ, který pro mne máte",
+          "href": "OEBPS/Text/lyrika_046.xhtml#_idParaDest-41"
+        },
+        {
+          "title": "Ach, milujte mě, drahá",
+          "href": "OEBPS/Text/lyrika_047.xhtml#_idParaDest-42"
+        },
+        {
+          "title": "Třebaže ty, závistná žárlivosti",
+          "href": "OEBPS/Text/lyrika_048.xhtml#_idParaDest-43"
+        },
+        {
+          "title": "Tak jak jste krásná vy",
+          "href": "OEBPS/Text/lyrika_049.xhtml#_idParaDest-44"
+        },
+        {
+          "title": "Když jsem se díval zmámen",
+          "href": "OEBPS/Text/lyrika_050.xhtml#_idParaDest-45"
+        },
+        {
+          "title": "I kdyby každý trn",
+          "href": "OEBPS/Text/lyrika_051.xhtml#_idParaDest-46"
+        },
+        {
+          "title": "Plote, jenž dělíš sady",
+          "href": "OEBPS/Text/lyrika_052.xhtml#_idParaDest-47"
+        },
+        {
+          "title": "Nejen mým kročejům",
+          "href": "OEBPS/Text/lyrika_053.xhtml#_idParaDest-48"
+        },
+        {
+          "title": "Ty vaše polibky",
+          "href": "OEBPS/Text/lyrika_054.xhtml#_idParaDest-49"
+        },
+        {
+          "title": "Ne, žádné květy v háji",
+          "href": "OEBPS/Text/lyrika_055.xhtml#_idParaDest-50"
+        },
+        {
+          "title": "Lodice v moři, prapor",
+          "href": "OEBPS/Text/lyrika_056.xhtml#_idParaDest-51"
+        },
+        {
+          "title": "Ta běloskvoucí ručka",
+          "href": "OEBPS/Text/lyrika_057.xhtml#_idParaDest-52"
+        },
+        {
+          "title": "Nad tůní pastýř stál",
+          "href": "OEBPS/Text/lyrika_058.xhtml#_idParaDest-53"
+        },
+        {
+          "title": "Ani ten těsný kout",
+          "href": "OEBPS/Text/lyrika_059.xhtml#_idParaDest-54"
+        },
+        {
+          "title": "Když je tu moje paní",
+          "href": "OEBPS/Text/lyrika_060.xhtml#_idParaDest-55"
+        },
+        {
+          "title": "Když jste, mé srdce, v dáli",
+          "href": "OEBPS/Text/lyrika_061.xhtml#_idParaDest-56"
+        },
+        {
+          "title": "Co se to všude chvěje",
+          "href": "OEBPS/Text/lyrika_062.xhtml#_idParaDest-57"
+        },
+        {
+          "title": "Jestliže na mně chcete po tom všem",
+          "href": "OEBPS/Text/lyrika_063.xhtml#_idParaDest-58"
+        },
+        {
+          "title": "Ať dává slunce noc",
+          "href": "OEBPS/Text/lyrika_064.xhtml#_idParaDest-59"
+        },
+        {
+          "title": "Vy chcete, blaho moje",
+          "href": "OEBPS/Text/lyrika_065.xhtml#_idParaDest-60"
+        },
+        {
+          "title": "Přesladké okovy",
+          "href": "OEBPS/Text/lyrika_066.xhtml#_idParaDest-61"
+        },
+        {
+          "title": "Býval jsem kdysi těm tvým očím milý",
+          "href": "OEBPS/Text/lyrika_067.xhtml#_idParaDest-62"
+        },
+        {
+          "title": "Miluji vás, jen že jste krásná, žel",
+          "href": "OEBPS/Text/lyrika_068.xhtml#_idParaDest-63"
+        },
+        {
+          "title": "Má krásná Chloris sladce spala v lůžku",
+          "href": "OEBPS/Text/lyrika_069.xhtml#_idParaDest-64"
+        },
+        {
+          "title": "Ve stínu stromů kdysi",
+          "href": "OEBPS/Text/lyrika_070.xhtml#_idParaDest-65"
+        },
+        {
+          "title": "Hrdličko osamělá",
+          "href": "OEBPS/Text/lyrika_071.xhtml#_idParaDest-66"
+        },
+        {
+          "title": "Život je hvozd, a klamné naděje",
+          "href": "OEBPS/Text/lyrika_072.xhtml#_idParaDest-67"
+        },
+        {
+          "title": "Láska je duše, Láska je duch světa",
+          "href": "OEBPS/Text/lyrika_073.xhtml#_idParaDest-68"
+        },
+        {
+          "title": "Vracej mi, krásná Jole",
+          "href": "OEBPS/Text/lyrika_074.xhtml#_idParaDest-69"
+        },
+        {
+          "title": "Vánky i vlny v moři",
+          "href": "OEBPS/Text/lyrika_075.xhtml#_idParaDest-70"
+        },
+        {
+          "title": "Není-li milost pro ty",
+          "href": "OEBPS/Text/lyrika_076.xhtml#_idParaDest-71"
+        },
+        {
+          "title": "Háje a řeky mlčí",
+          "href": "OEBPS/Text/lyrika_077.xhtml#_idParaDest-72"
+        },
+        {
+          "title": "Chtěl bych být malá včela",
+          "href": "OEBPS/Text/lyrika_078.xhtml#_idParaDest-73"
+        },
+        {
+          "title": "Když hledíš ke hvězdám",
+          "href": "OEBPS/Text/lyrika_079.xhtml#_idParaDest-74"
+        },
+        {
+          "title": "Když vzhlédnu ke hvězdám",
+          "href": "OEBPS/Text/lyrika_080.xhtml#_idParaDest-75"
+        }
+      ],
+      "href": "OEBPS/Text/lyrika_041.xhtml#_idParaDest-36"
+    },
+    {
+      "title": "IV",
+      "children": [
+        {
+          "title": "Lže pověst, kterou šíří ničemníci",
+          "href": "OEBPS/Text/lyrika_082.xhtml#_idParaDest-77"
+        },
+        {
+          "title": "Malý leč slavný synu",
+          "href": "OEBPS/Text/lyrika_083.xhtml#_idParaDest-78"
+        },
+        {
+          "title": "To, nad čím slepý dav vždy tolik jásá",
+          "href": "OEBPS/Text/lyrika_084.xhtml#_idParaDest-79"
+        },
+        {
+          "title": "Ať zvítězí už tedy osud zlý",
+          "href": "OEBPS/Text/lyrika_085.xhtml#_idParaDest-80"
+        },
+        {
+          "title": "Prastarý bože, okřídlený Čase",
+          "href": "OEBPS/Text/lyrika_086.xhtml#_idParaDest-81"
+        },
+        {
+          "title": "Je karneval a věrní milující",
+          "href": "OEBPS/Text/lyrika_087.xhtml#_idParaDest-82"
+        },
+        {
+          "title": "Za hořkých nocí, kdy tu v slzách štkám",
+          "href": "OEBPS/Text/lyrika_088.xhtml#_idParaDest-83"
+        }
+      ],
+      "href": "OEBPS/Text/lyrika_081.xhtml#_idParaDest-76"
+    },
+    {
+      "title": "Doslov",
+      "href": "OEBPS/Text/lyrika_089.xhtml#_idParaDest-84"
+    },
+    {
+      "title": "Poznámky",
+      "href": "OEBPS/Text/lyrika_090.xhtml#_idParaDest-85"
+    },
+    {
+      "title": "Poznámka k překladu",
+      "href": "OEBPS/Text/lyrika_091.xhtml#_idParaDest-86"
+    }
+  ]
+}

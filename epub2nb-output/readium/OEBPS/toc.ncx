@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Lyrika</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/lyrika_006.xhtml#_idParaDest-1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>Na štíhlém čele chvěl se porozpleten</text>
+        </navLabel>
+        <content src="Text/lyrika_007.xhtml#_idParaDest-2"/>
+      </navPoint>
+      <navPoint id="navPoint-3" playOrder="3">
+        <navLabel>
+          <text>Viděl jsem vázat květy do kytice</text>
+        </navLabel>
+        <content src="Text/lyrika_008.xhtml#_idParaDest-3"/>
+      </navPoint>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>„A v čem mám za své služby dík, můj Pane?“</text>
+        </navLabel>
+        <content src="Text/lyrika_009.xhtml#_idParaDest-4"/>
+      </navPoint>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>Krásná je paní, když jí vánek sladce</text>
+        </navLabel>
+        <content src="Text/lyrika_010.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>Radosti pro mne není</text>
+        </navLabel>
+        <content src="Text/lyrika_011.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>Ach, nevydržím dlouho</text>
+        </navLabel>
+        <content src="Text/lyrika_012.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>Je-li mé srdce s vámi, tak jak touží</text>
+        </navLabel>
+        <content src="Text/lyrika_013.xhtml#_idParaDest-8"/>
+      </navPoint>
+      <navPoint id="navPoint-9" playOrder="9">
+        <navLabel>
+          <text>Vánku, jenž tady tančíš kolem hravě</text>
+        </navLabel>
+        <content src="Text/lyrika_014.xhtml#_idParaDest-9"/>
+      </navPoint>
+      <navPoint id="navPoint-10" playOrder="10">
+        <navLabel>
+          <text>Na nebi vidím hvězdy, míhající</text>
+        </navLabel>
+        <content src="Text/lyrika_015.xhtml#_idParaDest-10"/>
+      </navPoint>
+      <navPoint id="navPoint-11" playOrder="11">
+        <navLabel>
+          <text>Zrcadlo z křišťálu jsem dal své paní</text>
+        </navLabel>
+        <content src="Text/lyrika_016.xhtml#_idParaDest-11"/>
+      </navPoint>
+      <navPoint id="navPoint-12" playOrder="12">
+        <navLabel>
+          <text>Dáš-li mi, Lásko, jednou pohladit</text>
+        </navLabel>
+        <content src="Text/lyrika_017.xhtml#_idParaDest-12"/>
+      </navPoint>
+      <navPoint id="navPoint-13" playOrder="13">
+        <navLabel>
+          <text>Není to ona ručka</text>
+        </navLabel>
+        <content src="Text/lyrika_018.xhtml#_idParaDest-13"/>
+      </navPoint>
+      <navPoint id="navPoint-14" playOrder="14">
+        <navLabel>
+          <text>Jako si Alfeus už věky věků</text>
+        </navLabel>
+        <content src="Text/lyrika_019.xhtml#_idParaDest-14"/>
+      </navPoint>
+      <navPoint id="navPoint-15" playOrder="15">
+        <navLabel>
+          <text>V té dálce, lásko má</text>
+        </navLabel>
+        <content src="Text/lyrika_020.xhtml#_idParaDest-15"/>
+      </navPoint>
+      <navPoint id="navPoint-16" playOrder="16">
+        <navLabel>
+          <text>V té dálce, srdce mé</text>
+        </navLabel>
+        <content src="Text/lyrika_021.xhtml#_idParaDest-16"/>
+      </navPoint>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>Žil jsem — a Láska s blahou Nadějí</text>
+        </navLabel>
+        <content src="Text/lyrika_022.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>Až jednou už ta světla a tu kštici</text>
+        </navLabel>
+        <content src="Text/lyrika_023.xhtml#_idParaDest-18"/>
+      </navPoint>
+      <navPoint id="navPoint-19" playOrder="19">
+        <navLabel>
+          <text>Až spatřím v tom svém rozevlátém vlasu</text>
+        </navLabel>
+        <content src="Text/lyrika_024.xhtml#_idParaDest-19"/>
+      </navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+        <navLabel>
+          <text>Viděl jsem na vás, nebo se mi zdálo</text>
+        </navLabel>
+        <content src="Text/lyrika_025.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navPoint-21" playOrder="21">
+        <navLabel>
+          <text>Tak jako plavec podle hvězd, když vzplanou</text>
+        </navLabel>
+        <content src="Text/lyrika_026.xhtml#_idParaDest-21"/>
+      </navPoint>
+      <navPoint id="navPoint-22" playOrder="22">
+        <navLabel>
+          <text>V žárlivé lásce třeštím tisíc očí</text>
+        </navLabel>
+        <content src="Text/lyrika_027.xhtml#_idParaDest-22"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/lyrika_028.xhtml#_idParaDest-23"/>
+      <navPoint id="navPoint-24" playOrder="24">
+        <navLabel>
+          <text>Tam, kde zdi, sloupy nebrání už zraku</text>
+        </navLabel>
+        <content src="Text/lyrika_029.xhtml#_idParaDest-24"/>
+      </navPoint>
+      <navPoint id="navPoint-25" playOrder="25">
+        <navLabel>
+          <text>Pastevče, který jdeš tou noční tmou</text>
+        </navLabel>
+        <content src="Text/lyrika_030.xhtml#_idParaDest-25"/>
+      </navPoint>
+      <navPoint id="navPoint-26" playOrder="26">
+        <navLabel>
+          <text>Sotva se úsvit brzy ráno vzbudí</text>
+        </navLabel>
+        <content src="Text/lyrika_031.xhtml#_idParaDest-26"/>
+      </navPoint>
+      <navPoint id="navPoint-27" playOrder="27">
+        <navLabel>
+          <text>Slyš, vlny šepotají</text>
+        </navLabel>
+        <content src="Text/lyrika_032.xhtml#_idParaDest-27"/>
+      </navPoint>
+      <navPoint id="navPoint-28" playOrder="28">
+        <navLabel>
+          <text>Seděl jsem jednou sám a samotinký</text>
+        </navLabel>
+        <content src="Text/lyrika_033.xhtml#_idParaDest-28"/>
+      </navPoint>
+      <navPoint id="navPoint-29" playOrder="29">
+        <navLabel>
+          <text>Srdce jste na mně chtěla</text>
+        </navLabel>
+        <content src="Text/lyrika_034.xhtml#_idParaDest-29"/>
+      </navPoint>
+      <navPoint id="navPoint-30" playOrder="30">
+        <navLabel>
+          <text>Jestli vás ve mně Láska</text>
+        </navLabel>
+        <content src="Text/lyrika_035.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>Na cestě zpět, má paní</text>
+        </navLabel>
+        <content src="Text/lyrika_036.xhtml#_idParaDest-31"/>
+      </navPoint>
+      <navPoint id="navPoint-32" playOrder="32">
+        <navLabel>
+          <text>Když přestal, Lásko, na můj sladký oheň</text>
+        </navLabel>
+        <content src="Text/lyrika_037.xhtml#_idParaDest-32"/>
+      </navPoint>
+      <navPoint id="navPoint-33" playOrder="33">
+        <navLabel>
+          <text>Když mlčím, bolest roste</text>
+        </navLabel>
+        <content src="Text/lyrika_038.xhtml#_idParaDest-33"/>
+      </navPoint>
+      <navPoint id="navPoint-34" playOrder="34">
+        <navLabel>
+          <text>Ten strůmek, který na počátku máje</text>
+        </navLabel>
+        <content src="Text/lyrika_039.xhtml#_idParaDest-34"/>
+      </navPoint>
+      <navPoint id="navPoint-35" playOrder="35">
+        <navLabel>
+          <text>Láska chce, abych věčně</text>
+        </navLabel>
+        <content src="Text/lyrika_040.xhtml#_idParaDest-35"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/lyrika_041.xhtml#_idParaDest-36"/>
+      <navPoint id="navPoint-37" playOrder="37">
+        <navLabel>
+          <text>Odlétáš, vlaštovko, a pak se zas</text>
+        </navLabel>
+        <content src="Text/lyrika_042.xhtml#_idParaDest-37"/>
+      </navPoint>
+      <navPoint id="navPoint-38" playOrder="38">
+        <navLabel>
+          <text>Jak Proteus či mág</text>
+        </navLabel>
+        <content src="Text/lyrika_043.xhtml#_idParaDest-38"/>
+      </navPoint>
+      <navPoint id="navPoint-39" playOrder="39">
+        <navLabel>
+          <text>Smavé a krásné oči</text>
+        </navLabel>
+        <content src="Text/lyrika_044.xhtml#_idParaDest-39"/>
+      </navPoint>
+      <navPoint id="navPoint-40" playOrder="40">
+        <navLabel>
+          <text>Spatřil bůh lásky něčí vlas a řekl</text>
+        </navLabel>
+        <content src="Text/lyrika_045.xhtml#_idParaDest-40"/>
+      </navPoint>
+      <navPoint id="navPoint-41" playOrder="41">
+        <navLabel>
+          <text>Květ, který pro mne máte</text>
+        </navLabel>
+        <content src="Text/lyrika_046.xhtml#_idParaDest-41"/>
+      </navPoint>
+      <navPoint id="navPoint-42" playOrder="42">
+        <navLabel>
+          <text>Ach, milujte mě, drahá</text>
+        </navLabel>
+        <content src="Text/lyrika_047.xhtml#_idParaDest-42"/>
+      </navPoint>
+      <navPoint id="navPoint-43" playOrder="43">
+        <navLabel>
+          <text>Třebaže ty, závistná žárlivosti</text>
+        </navLabel>
+        <content src="Text/lyrika_048.xhtml#_idParaDest-43"/>
+      </navPoint>
+      <navPoint id="navPoint-44" playOrder="44">
+        <navLabel>
+          <text>Tak jak jste krásná vy</text>
+        </navLabel>
+        <content src="Text/lyrika_049.xhtml#_idParaDest-44"/>
+      </navPoint>
+      <navPoint id="navPoint-45" playOrder="45">
+        <navLabel>
+          <text>Když jsem se díval zmámen</text>
+        </navLabel>
+        <content src="Text/lyrika_050.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navPoint-46" playOrder="46">
+        <navLabel>
+          <text>I kdyby každý trn</text>
+        </navLabel>
+        <content src="Text/lyrika_051.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navPoint-47" playOrder="47">
+        <navLabel>
+          <text>Plote, jenž dělíš sady</text>
+        </navLabel>
+        <content src="Text/lyrika_052.xhtml#_idParaDest-47"/>
+      </navPoint>
+      <navPoint id="navPoint-48" playOrder="48">
+        <navLabel>
+          <text>Nejen mým kročejům</text>
+        </navLabel>
+        <content src="Text/lyrika_053.xhtml#_idParaDest-48"/>
+      </navPoint>
+      <navPoint id="navPoint-49" playOrder="49">
+        <navLabel>
+          <text>Ty vaše polibky</text>
+        </navLabel>
+        <content src="Text/lyrika_054.xhtml#_idParaDest-49"/>
+      </navPoint>
+      <navPoint id="navPoint-50" playOrder="50">
+        <navLabel>
+          <text>Ne, žádné květy v háji</text>
+        </navLabel>
+        <content src="Text/lyrika_055.xhtml#_idParaDest-50"/>
+      </navPoint>
+      <navPoint id="navPoint-51" playOrder="51">
+        <navLabel>
+          <text>Lodice v moři, prapor</text>
+        </navLabel>
+        <content src="Text/lyrika_056.xhtml#_idParaDest-51"/>
+      </navPoint>
+      <navPoint id="navPoint-52" playOrder="52">
+        <navLabel>
+          <text>Ta běloskvoucí ručka</text>
+        </navLabel>
+        <content src="Text/lyrika_057.xhtml#_idParaDest-52"/>
+      </navPoint>
+      <navPoint id="navPoint-53" playOrder="53">
+        <navLabel>
+          <text>Nad tůní pastýř stál</text>
+        </navLabel>
+        <content src="Text/lyrika_058.xhtml#_idParaDest-53"/>
+      </navPoint>
+      <navPoint id="navPoint-54" playOrder="54">
+        <navLabel>
+          <text>Ani ten těsný kout</text>
+        </navLabel>
+        <content src="Text/lyrika_059.xhtml#_idParaDest-54"/>
+      </navPoint>
+      <navPoint id="navPoint-55" playOrder="55">
+        <navLabel>
+          <text>Když je tu moje paní</text>
+        </navLabel>
+        <content src="Text/lyrika_060.xhtml#_idParaDest-55"/>
+      </navPoint>
+      <navPoint id="navPoint-56" playOrder="56">
+        <navLabel>
+          <text>Když jste, mé srdce, v dáli</text>
+        </navLabel>
+        <content src="Text/lyrika_061.xhtml#_idParaDest-56"/>
+      </navPoint>
+      <navPoint id="navPoint-57" playOrder="57">
+        <navLabel>
+          <text>Co se to všude chvěje</text>
+        </navLabel>
+        <content src="Text/lyrika_062.xhtml#_idParaDest-57"/>
+      </navPoint>
+      <navPoint id="navPoint-58" playOrder="58">
+        <navLabel>
+          <text>Jestliže na mně chcete po tom všem</text>
+        </navLabel>
+        <content src="Text/lyrika_063.xhtml#_idParaDest-58"/>
+      </navPoint>
+      <navPoint id="navPoint-59" playOrder="59">
+        <navLabel>
+          <text>Ať dává slunce noc</text>
+        </navLabel>
+        <content src="Text/lyrika_064.xhtml#_idParaDest-59"/>
+      </navPoint>
+      <navPoint id="navPoint-60" playOrder="60">
+        <navLabel>
+          <text>Vy chcete, blaho moje</text>
+        </navLabel>
+        <content src="Text/lyrika_065.xhtml#_idParaDest-60"/>
+      </navPoint>
+      <navPoint id="navPoint-61" playOrder="61">
+        <navLabel>
+          <text>Přesladké okovy</text>
+        </navLabel>
+        <content src="Text/lyrika_066.xhtml#_idParaDest-61"/>
+      </navPoint>
+      <navPoint id="navPoint-62" playOrder="62">
+        <navLabel>
+          <text>Býval jsem kdysi těm tvým očím milý</text>
+        </navLabel>
+        <content src="Text/lyrika_067.xhtml#_idParaDest-62"/>
+      </navPoint>
+      <navPoint id="navPoint-63" playOrder="63">
+        <navLabel>
+          <text>Miluji vás, jen že jste krásná, žel</text>
+        </navLabel>
+        <content src="Text/lyrika_068.xhtml#_idParaDest-63"/>
+      </navPoint>
+      <navPoint id="navPoint-64" playOrder="64">
+        <navLabel>
+          <text>Má krásná Chloris sladce spala v lůžku</text>
+        </navLabel>
+        <content src="Text/lyrika_069.xhtml#_idParaDest-64"/>
+      </navPoint>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>Ve stínu stromů kdysi</text>
+        </navLabel>
+        <content src="Text/lyrika_070.xhtml#_idParaDest-65"/>
+      </navPoint>
+      <navPoint id="navPoint-66" playOrder="66">
+        <navLabel>
+          <text>Hrdličko osamělá</text>
+        </navLabel>
+        <content src="Text/lyrika_071.xhtml#_idParaDest-66"/>
+      </navPoint>
+      <navPoint id="navPoint-67" playOrder="67">
+        <navLabel>
+          <text>Život je hvozd, a klamné naděje</text>
+        </navLabel>
+        <content src="Text/lyrika_072.xhtml#_idParaDest-67"/>
+      </navPoint>
+      <navPoint id="navPoint-68" playOrder="68">
+        <navLabel>
+          <text>Láska je duše, Láska je duch světa</text>
+        </navLabel>
+        <content src="Text/lyrika_073.xhtml#_idParaDest-68"/>
+      </navPoint>
+      <navPoint id="navPoint-69" playOrder="69">
+        <navLabel>
+          <text>Vracej mi, krásná Jole</text>
+        </navLabel>
+        <content src="Text/lyrika_074.xhtml#_idParaDest-69"/>
+      </navPoint>
+      <navPoint id="navPoint-70" playOrder="70">
+        <navLabel>
+          <text>Vánky i vlny v moři</text>
+        </navLabel>
+        <content src="Text/lyrika_075.xhtml#_idParaDest-70"/>
+      </navPoint>
+      <navPoint id="navPoint-71" playOrder="71">
+        <navLabel>
+          <text>Není-li milost pro ty</text>
+        </navLabel>
+        <content src="Text/lyrika_076.xhtml#_idParaDest-71"/>
+      </navPoint>
+      <navPoint id="navPoint-72" playOrder="72">
+        <navLabel>
+          <text>Háje a řeky mlčí</text>
+        </navLabel>
+        <content src="Text/lyrika_077.xhtml#_idParaDest-72"/>
+      </navPoint>
+      <navPoint id="navPoint-73" playOrder="73">
+        <navLabel>
+          <text>Chtěl bych být malá včela</text>
+        </navLabel>
+        <content src="Text/lyrika_078.xhtml#_idParaDest-73"/>
+      </navPoint>
+      <navPoint id="navPoint-74" playOrder="74">
+        <navLabel>
+          <text>Když hledíš ke hvězdám</text>
+        </navLabel>
+        <content src="Text/lyrika_079.xhtml#_idParaDest-74"/>
+      </navPoint>
+      <navPoint id="navPoint-75" playOrder="75">
+        <navLabel>
+          <text>Když vzhlédnu ke hvězdám</text>
+        </navLabel>
+        <content src="Text/lyrika_080.xhtml#_idParaDest-75"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-76" playOrder="76">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/lyrika_081.xhtml#_idParaDest-76"/>
+      <navPoint id="navPoint-77" playOrder="77">
+        <navLabel>
+          <text>Lže pověst, kterou šíří ničemníci</text>
+        </navLabel>
+        <content src="Text/lyrika_082.xhtml#_idParaDest-77"/>
+      </navPoint>
+      <navPoint id="navPoint-78" playOrder="78">
+        <navLabel>
+          <text>Malý leč slavný synu</text>
+        </navLabel>
+        <content src="Text/lyrika_083.xhtml#_idParaDest-78"/>
+      </navPoint>
+      <navPoint id="navPoint-79" playOrder="79">
+        <navLabel>
+          <text>To, nad čím slepý dav vždy tolik jásá</text>
+        </navLabel>
+        <content src="Text/lyrika_084.xhtml#_idParaDest-79"/>
+      </navPoint>
+      <navPoint id="navPoint-80" playOrder="80">
+        <navLabel>
+          <text>Ať zvítězí už tedy osud zlý</text>
+        </navLabel>
+        <content src="Text/lyrika_085.xhtml#_idParaDest-80"/>
+      </navPoint>
+      <navPoint id="navPoint-81" playOrder="81">
+        <navLabel>
+          <text>Prastarý bože, okřídlený Čase</text>
+        </navLabel>
+        <content src="Text/lyrika_086.xhtml#_idParaDest-81"/>
+      </navPoint>
+      <navPoint id="navPoint-82" playOrder="82">
+        <navLabel>
+          <text>Je karneval a věrní milující</text>
+        </navLabel>
+        <content src="Text/lyrika_087.xhtml#_idParaDest-82"/>
+      </navPoint>
+      <navPoint id="navPoint-83" playOrder="83">
+        <navLabel>
+          <text>Za hořkých nocí, kdy tu v slzách štkám</text>
+        </navLabel>
+        <content src="Text/lyrika_088.xhtml#_idParaDest-83"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-84" playOrder="84">
+      <navLabel>
+        <text>Doslov</text>
+      </navLabel>
+      <content src="Text/lyrika_089.xhtml#_idParaDest-84"/>
+    </navPoint>
+    <navPoint id="navPoint-85" playOrder="85">
+      <navLabel>
+        <text>Poznámky</text>
+      </navLabel>
+      <content src="Text/lyrika_090.xhtml#_idParaDest-85"/>
+    </navPoint>
+    <navPoint id="navPoint-86" playOrder="86">
+      <navLabel>
+        <text>Poznámka k překladu</text>
+      </navLabel>
+      <content src="Text/lyrika_091.xhtml#_idParaDest-86"/>
+    </navPoint>
+  </navMap>
+</ncx>
