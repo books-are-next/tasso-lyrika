@@ -3,5 +3,5 @@ title: ''
 contentType: prose
 ---
 
-Památce Oscara Zaccarii,  
-učitele italštiny
+_Památce Oscara Zaccarii,  
+učitele italštiny_

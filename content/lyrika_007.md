@@ -5,19 +5,19 @@ contentType: prose
 
 Na štíhlém čele chvěl se porozpleten
 
-> zářící zlatý proud a tichý jas  
-> překrásných očí nesl kraji květen  
-> a srdcím horký, žhoucí červen zas.
+_zářící zlatý proud a tichý jas  
+překrásných očí nesl kraji květen  
+a srdcím horký, žhoucí červen zas._
 
-> Na ňadrech jako sníh si Láska hrála  
-> a nepřestávala jim lichotit,  
-> a dvorná, vážná mluva zaznívala  
-> jak vánek, který slýcháš v růžích znít.
+_Na ňadrech jako sníh si Láska hrála  
+a nepřestávala jim lichotit,  
+a dvorná, vážná mluva zaznívala  
+jak vánek, který slýcháš v růžích znít._
 
-> Vida tu tvář, jež přišla z nebe na zem,  
-> zavřel jsem oči s povzdechem: „Ach, blázen,  
-> kdo hoří touhou na ni pohlížet!“
+_Vida tu tvář, jež přišla z nebe na zem,  
+zavřel jsem oči s povzdechem: „Ach, blázen,  
+kdo hoří touhou na ni pohlížet!“_
 
-> Leč opomněl jsem další nebezpečí:  
-> kam nepronikla tvář, tam vnikla řečí —  
-> a tak mi sluchem protkla srdce hned.
+_Leč opomněl jsem další nebezpečí:  
+kam nepronikla tvář, tam vnikla řečí —  
+a tak mi sluchem protkla srdce hned._

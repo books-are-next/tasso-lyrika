@@ -3,15 +3,11 @@ title: Poznámky
 contentType: prose
 ---
 
-  
-
 Uspořádání tohoto výboru se řídí základním souborem Tassovy lyriky, který vydal význačný tassovský badatel Angelo Solerti pod titulem Le Rime de Torquato Tasso, edizione critica su i manoscritti e le antiche stampe, díl I.–IV., Bologna 1898–1902. Solertiho řazení je v podstatě chronologické, přihlíží však také k obsahu básní a dělí je ve čtyři více méně uzavřené oddíly. První obsahuje verše na Lukrecii Bendidiovou, druhý verše na Lauru Peperarovou, třetí Tassovu ostatní milostnou lyriku a konečně čtvrtý básníkovu poezii příležitostnou, osobní.
 
 Předlohou pro tento překlad bylo uvedené vydání Solertiho; při zpracovávání doslovu a poznámek bylo přihlédnuto i k dalším souborům a výborům, zejména ke knize Torquato Tasso, Poesie, a cura di Francesco Flora, Milano–Roma, 1934.
 
-I. Básně na Lukrecii Bendidiovou (z let 1561–62)
-
-  
+### I. Básně na Lukrecii Bendidiovou (z let 1561–62)
 
 V září nebo v říjnu 1561 spatřil sedmnáctiletý Tasso v lázních Albano u Padovy poprvé mladičkou, patnáctiletou Lukrecii Bendidiovou, která doprovázela kněžnu Leonoru d’Este. Lukrecie, sama z význačné ferrarské rodiny, se za rok (v létě 1562) vdala za hraběte Paola Macchiavelliho. Svědectvím básníkova něžného vztahu k jeho „paní“ je milostný Zpěvník, obsahující asi sto básní, vzniklých během jednoho roku.
 
@@ -29,10 +25,8 @@ _Jako si Alfe__us už věky věků_ – Alfeus – řeka v Řecku. Když se v
 
 _V té dálce, lásko má_ – Z dob druhého odloučení v březnu až červnu 1562, kdy se Tasso vrátil na studia. Podobně i následující báseň.
 
-II. Básně na Lauru Peperarovou  
+### II. Básně na Lauru Peperarovou  
 (z let 1563–1567 a 1579–1583)
-
-  
 
 O letních prázdninách roku 1563, které Tasso trávil u otce v Mantově, poznal mladý, ještě ne dvacetiletý básník mladičkou dceru bohatého mantovského obchodníka. Této druhé lásce, Lauře Peperarové, je věnován Tassův druhý milostný zpěvník. Končí stejně jako první básněmi k oslavě jejího sňatku: Laura Peperarová si vzala v únoru 1583 hraběte Annibala Turca.
 
@@ -50,9 +44,7 @@ _Když přestal, Lásko,_ _na můj sladký oheň_ – Faeton – podle řeckéh
 
 _Láska chce, abych věcně_ – Jedna z básní hudební sbírky „Zelený vavřín“, věnované ferrarskou básnickou akademií Lauře Peperarové k jejímu sňatku.
 
-III. Básně na jiné lásky
-
-  
+### III. Básně na jiné lásky
 
 Kromě řady básní osobních je v tomto oddílu i mnoho milostných veršů vzniklých na vnější podnět, na žádost přátel nebo příznivců.
 
@@ -70,9 +62,7 @@ _Vracej mi, krásná Jole_ – Ze sbírky madrigalů pro zhudebnění, napsaný
 
 _Když hledíš ke hvězdám_ – „Paní Tarquinii Molzové, která studovala astronomii a chodívala večer pozorovat hvězdy.“ (T. Tasso.) S Tarquinií Molzovou, modenskou básnířkou, oslavovanou vícero básníky, se Tasso setkal v Modeně někdy v prosinci 1576 nebo v lednu 1577, kdy napsal také tento madrigal.
 
-IV. Ostatní básně
-
-  
+### IV. Ostatní básně
 
 V Tassově díle je početně nejsilnější skupina příležitostných oslavných básní na umělcovy přátele a příznivce, které povětšině ztratily dnes svůj význam. O to větší význam však nabyly některé básně hluboce osobní, z nichž zde uvádíme výběrem ty nejvýznačnější.
 

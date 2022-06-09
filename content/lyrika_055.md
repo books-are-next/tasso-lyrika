@@ -5,10 +5,10 @@ contentType: prose
 
 Ne, žádné květy v háji,
 
-> žádné se nerdívají  
-> jak rty mé paní, rudé jako krev,  
-> a žádný, žádný vánek  
-> v růžích a u studánek  
-> nezní tak líbezně jak její zpěv.  
-> Písni, v níž blaze pluji,  
-> jen naše polibky tě přerušují!
+_žádné se nerdívají  
+jak rty mé paní, rudé jako krev,  
+a žádný, žádný vánek  
+v růžích a u studánek  
+nezní tak líbezně jak její zpěv.  
+Písni, v níž blaze pluji,  
+jen naše polibky tě přerušují!_
