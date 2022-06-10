@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Když jste, mé srdce, v dáli,
 
 _bez konce žal mě pálí,  
@@ -14,3 +16,5 @@ jen naděje, že zase
 spatřím ty vaše zraky v celé kráse,  
 jen té je konec už  
 a to mě mučí jako v srdci nůž._
+
+</section>

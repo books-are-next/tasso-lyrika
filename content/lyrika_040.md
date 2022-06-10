@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Láska chce, abych věčně
 
 _miloval mladou kůru,  
@@ -16,3 +18,5 @@ který se klade ve snách na klín trávy:
 tam uprostřed svých sítí  
 se bůžek lásky skrývá  
 a znaven lukem tajně odpočívá._
+
+</section>

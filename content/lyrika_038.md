@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Když mlčím, bolest roste,
 
 _když mluvím, hněv se vzmáhá  
@@ -13,3 +15,5 @@ vždyť mlčení též umí hovořit.
 A prosím Lásku tiše,  
 ať do mých rysů vpíše  
 útrpným písmem ten můj tajný cit._
+
+</section>

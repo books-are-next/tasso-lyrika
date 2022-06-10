@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 V té dálce, srdce mé,
 
 _už po sté snad má bolest vraždí mne.  
@@ -12,3 +14,5 @@ tu jako by mi bral
 i život z žil a všecek rozum s ním.  
 Ó jaká bída běd!  
 Šťastný, kdo zemřel jedenkrát a hned._
+
+</section>

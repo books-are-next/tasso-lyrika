@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Život je hvozd, a klamné naděje
 
 _jsou jeho stíny, rozkoše a slasti  
@@ -15,3 +17,5 @@ Ona však prchá, prchá bez ustání
 ale ne ze strachu, leč pohrdání,  
 ne před pouty, leč klidem;  
 a čím je sladší, tím je plašší k lidem._
+
+</section>

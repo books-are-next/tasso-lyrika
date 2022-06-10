@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Ve stínu stromů kdysi
 
 _po prvé šeptali si  
@@ -13,3 +15,5 @@ tak byly svědky našich objímání
 jen hvězdy v obloze a květy v stráni.  
 Ale já, hvězdy, květy, přísahám,  
 chci ještě víc, než mám._
+
+</section>

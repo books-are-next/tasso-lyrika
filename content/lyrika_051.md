@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 I kdyby každý trn
 
 _byl tvrdá, ostrá střela,  
@@ -13,3 +15,5 @@ by beze strachu z ohně, ran a škod
 se snažila dál dostat přes ten plot,  
 jen abych se tě neviděn a v skrytu  
 dotkl v tom šerém svitu._
+
+</section>

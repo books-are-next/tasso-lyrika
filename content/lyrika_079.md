@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Když hledíš ke hvězdám,
 
 _chtěl bych být nebem sám,  
@@ -12,3 +14,5 @@ své třpytné oči tiše
 na noční nebe zas,  
 směl bych se kochat z výše  
 tisícem očí v tisíci tvých krás._
+
+</section>

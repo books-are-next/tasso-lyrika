@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Jestliže na mně chcete po tom všem
 
 _ukrutném utrpení  
@@ -13,3 +15,5 @@ může-li dávat otrok, kterým jsem,
 odpuštění své paní.  
 Co zmohu však, až obviní vás jiný?  
 Zproštěním trestu nezprostím vás viny!_
+
+</section>

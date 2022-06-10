@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Ani ten těsný kout
 
 _uprostřed hor a mraků  
@@ -14,3 +16,5 @@ Vy drahé oči jasné,
 vy sladké oči krásné,  
 vy tento šerý kraj  
 měníte často ve skvoucí se ráj._
+
+</section>

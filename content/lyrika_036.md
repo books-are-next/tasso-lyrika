@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Na cestě zpět, má paní,
 
 _mé myšlenky, jež nezadrží nic,  
@@ -13,3 +15,5 @@ ve dne i v noci s vámi,
 protože jinde neměly by stání.  
 A tak jsem stále dík svým myšlenkám  
 už dávno s vámi, ač jdu teprv k vám._
+
+</section>

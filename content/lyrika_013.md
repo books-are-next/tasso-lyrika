@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Je-li mé srdce s vámi, tak jak touží,
 
 _kde moje duše krouží?  
@@ -13,3 +15,5 @@ A vaše podoba je, lásko má,
 v mé smutné mysli vždy;  
 bez lásky však se moje žití mění  
 ve strast a utrpení._
+
+</section>

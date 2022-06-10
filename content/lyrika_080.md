@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Když vzhlédnu ke hvězdám
 
 _a vidím, jak se snoubí,  
@@ -16,3 +18,5 @@ a když se s láskou ke mně pootočí,
 tu otvírá se zcela  
 ta ještě horší cela  
 odluky od vás, zraky plné světla._
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Tak jak jste krásná vy,
 
 _tak jsem já žárlivý,  
@@ -13,3 +15,5 @@ a na život si zoufat,
 žárlivost přesto trvá ve mně dál.  
 Leč když smrt nepomůže,  
 co potom odjezd zmůže?_
+
+</section>

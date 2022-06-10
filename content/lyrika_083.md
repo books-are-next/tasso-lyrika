@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Malý leč slavný synu,
 
 _zrozený v lůně velkých Apenin,  
@@ -25,6 +27,10 @@ a bloudím nocí stranou cest a lidí;
 a buší do mne, ubohého, žel,  
 jako by měla očí, co má střel._
 
+</section>
+
+<section>
+
 _Ode dne, od hodiny,  
 kdy po prvé jsem spatřil tento svět,  
 jenž pro mne pouze chmury v klíně má,  
@@ -45,6 +51,10 @@ do sladkých paží matky,
 jež by mě v sobě sevřely a skryly;  
 jak Ascanius, jako Camilla  
 bloudil jsem s otcem světem plným zla._
+
+</section>
+
+<section>
 
 _Na této pouti světem  
 jsem jako psanec v nouzi dorůstal  
@@ -67,3 +77,5 @@ lože i hrob. Teď, když ti sféry hrají,
 ti však už náleží jen čest a klid:  
 musím svůj žal sám do dna vyprázdnit.  
 — — —_
+
+</section>

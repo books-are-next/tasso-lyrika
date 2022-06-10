@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Má krásná Chloris sladce spala v lůžku
 
 _a tisíc malých bůžků  
@@ -14,3 +16,5 @@ Ztracený čas už nikdy nelapíš.“
 A tu jsem se já lehce sklonil níž,  
 až k rtům, a zulíbal je —  
 a okusil tak všechny slasti ráje._
+
+</section>

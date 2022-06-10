@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Chtěl bych být malá včela,
 
 _která by bzučíc směla  
@@ -11,3 +13,5 @@ Pak aspoň bílé ňadro, ne-li srdce,
 mohl bych bodnout prudce  
 a v této sladké ráně  
 už pomstěn nechat život odevzdaně._
+
+</section>
