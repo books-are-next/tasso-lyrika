@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Není to ona ručka,
 
 _která mi vrhla, žel,  
@@ -15,3 +17,5 @@ Teď mohu, Lásko, snad
 trochu ji vytrestat  
 a za to sužování,  
 za každou ránu polibek jí dát._
+
+</section>

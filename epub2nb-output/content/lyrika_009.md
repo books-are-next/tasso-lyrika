@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 „A v čem mám za své služby dík, můj Pane?“
 
 _„V těch krásných očích, až se začnou chvít!“  
@@ -12,3 +14,5 @@ _„V těch krásných očích, až se začnou chvít!“
 „Slzy a pláč je přijdou uhasit!“  
 „Ach, letí, hoří, jisto si však není!“  
 „Trp! Pravá odměna je v utrpení!“_
+
+</section>

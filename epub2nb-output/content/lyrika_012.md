@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Ach, nevydržím dlouho
 
 _daleko od vás, vy má sladká touho,  
@@ -12,3 +14,5 @@ vidím a slyším vás
 tím blíž, čím dál k vám doopravdy mám,  
 a miluji a žhnu a jásám zmámen,  
 čím více žhne můj plamen._
+
+</section>

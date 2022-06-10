@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 To, nad čím slepý dav vždy tolik jásá,
 
 _jediná potěcha a starost žen,  
@@ -13,6 +15,10 @@ kdo v touze padne rajské tváři v plen!
 Spíš by snad sama Smrt tam v hloubi pekla  
 ty jeho prosby vyslechla a změkla._
 
+</section>
+
+<section>
+
 _Tak jako na louce se často skrývá  
 v trávě a kvítí jedovatý had,  
 tak jako v krásné zlaté číši bývá  
@@ -21,6 +27,10 @@ tak jako pěkné jabko v sobě mívá
 hnusného červa, svůj skon a svůj pád,  
 tak mnohdy krása přikrývá zas špínu  
 ohyzdných přání, myšlenek a činů._
+
+</section>
+
+<section>
 
 _Kam přijde krása, tam se záhy ztratí  
 pokora, zbožnost, slušnost, laskavost,  
@@ -31,6 +41,10 @@ už v klíčku každou sílu, schopnost, ctnost.
 Krása je stvůra nade všecky stvůry,  
 bič, jenž byl seslán na nás tady shůry!_
 
+</section>
+
+<section>
+
 _Jako se jabko, trpké, nedozrálé,  
 nakládá snáz než plod, jenž dlouho zrál,  
 a naloženo chutná lidem stále,  
@@ -39,6 +53,10 @@ tak i bůh lásky uchovává znale
 v nektaru, který on sám namíchal,  
 snáz ošklivost, v níž trpké jádro dřímá,  
 než krásu, která slast už nepřijímá._
+
+</section>
+
+<section>
 
 _Ach, kéž je tedy ošklivá má paní,  
 kéž má nos, který vrhá dlouhý stín,  
@@ -49,6 +67,10 @@ zuby jak eben, oči jako cín,
 a kéž pak tomu všemu odpovídá,  
 to co je vidět, i co v skrytu hlídá —_
 
+</section>
+
+<section>
+
 _a přejde mě strach, že ji někdo vzývá,  
 či sleduje, či jenom vídá rád,  
 přejde mě úzkost, když se někam dívá,  
@@ -57,3 +79,5 @@ přestanu říkat, že je odpudivá,
 nevděčná, pyšná, když se nechce dát:  
 bude si myslit, jen co já si přeji,  
 bude má celá a já celý její!_
+
+</section>

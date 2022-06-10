@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Ach, milujte mě, drahá,
 
 _vždyť srdce mé se zdráhá  
@@ -13,3 +15,5 @@ do smrti láskou, kterou dnes k vám chovám.
 Jestli mi je však krutě odepřete,  
 žalem mě zabijete,  
 že jsem vás nemiloval — nemilován._
+
+</section>

@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Hrdličko osamělá,
 
 _štkáš pro tu, s níž jsi žila,  
@@ -12,3 +14,5 @@ ty s větve opadalé
 a já zas pod stromem ji volám stále,  
 leč na mé naříkání  
 jen ranní vánek odpovídá v lkání._
+
+</section>

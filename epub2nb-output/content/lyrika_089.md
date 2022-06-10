@@ -3,6 +3,8 @@ title: Doslov
 contentType: prose
 ---
 
+<section>
+
 Básníci mají své legendy a jednou z nejpříznačnějších je nepochybně legenda, která se zmocnila Torquata Tassa. Zmocnila se ho takřka už za jeho života, krátkého, vzrušeného života nekorunovaného knížete básníků, a odstupem času jen rostla, až nakonec přikryla básníkovu podobiznu tolika vrstvami temných barev, že se nám dnes pod nimi jeho pravá podoba někdy docela ztrácí.
 
 Ale i tak, nebo snad právě proto, je to podoba neobyčejně uhrančivá a přímo svádějící k výkladům mnohdy zcela protichůdným. Tomuto svodu neunikl kdysi ani sám Goethe. I když jeho „Torquato Tasso“ je svébytné dílo básnické, pramálo závislé na historické skutečnosti, nevybral si básník Fausta Tassovu postavu za hlavní osobu své tragédie náhodou. Tassův lidský i umělecký osud skýtá totiž přímo ideální látku pro každého, kdo chce básnickým příměrem řešit otázku umělce a společnosti.
@@ -25,6 +27,12 @@ V nejzřetelnější podobě zastihujeme Tassův smělý rozběh k nové poezi
 
 Tak ve své lyrice Tasso učí člověka své doby vidět svět novýma očima: ukazuje mu jej skutečný, se všemi jeho detaily, se všemi jeho barvami, světly, hlasy a záchvěvy citů, odkrývá mu jeho mnohotvárnost a krásu, kterou pak násobí svým podáním, svou zpěvností, ba vyslovenou hudebností, která je další základní vlastností a předností jeho lyriky.
 
+</section>
+
+<section>
+
 Mnoho z toho má pro čtenáře – a zejména čtenáře trpělivého a pečlivého – cenu podnes. Nejeden Tassův verš, ač odraz života prošlého před třemi sty šedesáti roky, mu osvětlí mnohý detail z jeho vlastního dnešního života, detail, který on sám dosud nepostřehl nebo už zase zapomněl a který za něho básník v několika řádcích zachytil navždy.
 
 > Jan Vladislav
+
+</section>

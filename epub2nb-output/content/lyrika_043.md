@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Jak Proteus či mág
 
 _mění se krása hned tak a hned tak:  
@@ -16,3 +18,5 @@ se setkáš s její tváří,
 hned jako luna, hned jak slunce září —  
 a někdy, málokdy,  
 je jako Ticho vprostřed noční tmy._
+
+</section>

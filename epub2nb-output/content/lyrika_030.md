@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Pastevče, který jdeš tou noční tmou
 
 _snad zapálit si svou louč uhaslou,  
@@ -12,3 +14,5 @@ vítr, jenž pořád duje ze všech sil,
 přijď si ji k mému lauru zažehnout.  
 Však pozor, pastevče, pro lásku boží,  
 ať s tebou pak i stádo neuhoří!_
+
+</section>

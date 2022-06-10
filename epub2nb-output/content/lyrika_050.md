@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Když jsem se díval zmámen,
 
 _do krásných, žhoucích zřítelnic své paní,  
@@ -14,3 +16,5 @@ kol léčky oněch něžných ňader v mžiku
 vyrvali ze mne na tisíce vzlyků,  
 takže jsem v slastném, láskyplném štkání  
 jen volal: „Smilování.“_
+
+</section>

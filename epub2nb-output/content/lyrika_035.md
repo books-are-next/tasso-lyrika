@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Jestli vás ve mně Láska
 
 _maluje zas a zas,  
@@ -13,3 +15,5 @@ mé pohledy vás nikdy nespatří.
 Když vás však nemám vskutku,  
 nechť aspoň mám váš stín,  
 abych vás viděl, když tu o vás sním._
+
+</section>

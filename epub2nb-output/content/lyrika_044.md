@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Smavé a krásné oči,
 
 _ve vaší sladké tmě  
@@ -13,3 +15,5 @@ vždy znovu šípy budí
 A těch svých střel i plamenů má dosti  
 a bude je mít vždy:  
 vždyť to jsou přece vaše pohledy!_
+
+</section>

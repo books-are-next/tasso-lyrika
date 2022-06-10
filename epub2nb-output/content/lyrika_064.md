@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Ať dává slunce noc,
 
 _bělostná luna den,  
@@ -14,3 +16,5 @@ ať zruší svět a los svůj řád,
 když už jej Láska ruší  
 a nevděčníku přeje napořád  
 a oddaného kruší._
+
+</section>

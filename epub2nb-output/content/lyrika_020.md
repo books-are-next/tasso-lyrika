@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 V té dálce, lásko má,
 
 _už nemám život, už to nejsem já,  
@@ -12,3 +14,5 @@ jen nářek, jenom kvil,
 jen bědný sten. A za vše, co mi zbývá,  
 vděčím teď pouze vám:  
 je to má bolest, na niž umírám!_
+
+</section>

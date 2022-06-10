@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Květ, který pro mne máte,
 
 _vzdech, který za mnou z lásky posíláte,  
@@ -13,3 +15,5 @@ a povzdech prchá, povzdech s větrem splyne.
 Ten stisk však cítím zmámen  
 jak uštknutí, jak plamen,  
 takže mi krev hned mrzne a hned plane._
+
+</section>

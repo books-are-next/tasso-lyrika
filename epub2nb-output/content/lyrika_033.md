@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Seděl jsem jednou sám a samotinký
 
 _ve stínu hustých kštic  
@@ -10,6 +12,10 @@ palem a borovic
 a tu jsem znenadání  
 uslyšel svoji paní  
 s někým si vyprávět._
+
+</section>
+
+<section>
 
 _V trávě a kvítí u studánky stály  
 dvě něžné víly nevídané krásy  
@@ -22,6 +28,10 @@ a obě paže nahé:
 byly mi stejně drahé,  
 byly jak krásný květ._
 
+</section>
+
+<section>
+
 _A jedna řekla: „Láska má víc síly  
 než dravá zvěř, než potok koncem zimy,  
 než oheň, který v slámě zapálili.  
@@ -32,6 +42,10 @@ snášet ten prudký pal,
 chci už jen hřát se lehce.  
 Můj hořký pláč však nechce  
 utišit žár mých běd.“_
+
+</section>
+
+<section>
 
 _A druhá řekla: „Láska má víc něhy  
 než něžný van, jenž v listí stromů zpívá,  
@@ -44,6 +58,10 @@ a jenom tím mě souží,
 že tak, jak srdce touží,  
 v něm nechce zahořet.“_
 
+</section>
+
+<section>
+
 _A obě řekly: „Láska, láska pouze,  
 ať už zlá, prudká, nebo sladká, snivá,  
 dá štěstí ženě, která hyne v touze,  
@@ -54,3 +72,5 @@ láska a touha v nás
 pramení, pučí, raší  
 vždycky jen v lůně krásy:  
 ať žije dokud svět!“_
+
+</section>

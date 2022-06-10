@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Nejen mým kročejům,
 
 _ale i pažím, rtům  
@@ -12,3 +14,5 @@ a ve své ukrutnosti,
 i když jsi vyslech dosti  
 nářků a výčitek,  
 ses nerozevřel mezi mnou a paní!_
+
+</section>
