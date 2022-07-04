@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Jako si Alfeus už věky věků
+_Jako si Alfeus už věky věků_
 
 _hnán láskou razí cestu v hlubinách  
 k své plaché nymfě, jež se na útěku  

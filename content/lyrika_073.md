@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Láska je duše, Láska je duch světa,
+_Láska je duše, Láska je duch světa,_
 
 _ta dává slunci na obloze směr,  
 ta v pomalých či rychlých kruzích splétá  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Když hledíš ke hvězdám,
+_Když hledíš ke hvězdám,_
 
 _chtěl bych být nebem sám,  
 má Tarquinie milá!  

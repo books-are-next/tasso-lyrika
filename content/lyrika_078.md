@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Chtěl bych být malá včela,
+_Chtěl bych být malá včela,_
 
 _která by bzučíc směla  
 z vás sát svůj med, má krásná, krutá paní.  

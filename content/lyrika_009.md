@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-„A v čem mám za své služby dík, můj Pane?“
+_„A v čem mám za své služby dík, můj Pane?“_
 
 _„V těch krásných očích, až se začnou chvít!“  
 „A kdo k nim zdvihne srdce ulekané?“  

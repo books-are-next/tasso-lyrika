@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Vracej mi, krásná Jole,
+_Vracej mi, krásná Jole,_
 
 _vracej mi zas a znova  
 polibky, vzdechy, přerývaná slova —  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ani ten těsný kout
+_Ani ten těsný kout_
 
 _uprostřed hor a mraků  
 nemůže ztajit jasný, čistý proud  

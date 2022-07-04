@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Nejen mým kročejům,
+_Nejen mým kročejům,_
 
 _ale i pažím, rtům  
 budeš stát v cestě, plote,  

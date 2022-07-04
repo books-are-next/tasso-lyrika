@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Lodice v moři, prapor,
+_Lodice v moři, prapor,_
 
 _který se zmítá v bouři bez pomoci  
 na věži ve dne v noci,  

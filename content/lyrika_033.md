@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Seděl jsem jednou sám a samotinký
+_Seděl jsem jednou sám a samotinký_
 
 _ve stínu hustých kštic  
 palem a borovic  

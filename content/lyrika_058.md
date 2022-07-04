@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Nad tůní pastýř stál
+_Nad tůní pastýř stál_
 
 _a smutně naříkal  
 na krutost lásky, hledě na své rysy:  

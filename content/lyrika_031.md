@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Sotva se úsvit brzy ráno vzbudí
+_Sotva se úsvit brzy ráno vzbudí_
 
 _a začne zhlížet v stříbře vod a řek,  
 zavzdychá v listí tichý větérek  

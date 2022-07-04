@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Když jste, mé srdce, v dáli,
+_Když jste, mé srdce, v dáli,_
 
 _bez konce žal mě pálí,  
 bez konce se tu trápím stále sám,  

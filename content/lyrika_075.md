@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Vánky i vlny v moři
+_Vánky i vlny v moři_
 
 _si naposledy vzdychly,  
 řeky jak Lethe beze zvuku ztichly,  

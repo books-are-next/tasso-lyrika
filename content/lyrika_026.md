@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Tak jako plavec podle hvězd, když vzplanou,
+_Tak jako plavec podle hvězd, když vzplanou,_
 
 _podle dne v červáncích a podle luny,  
 podle mlh, které v noci stojí u ní,  

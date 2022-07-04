@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Za hořkých nocí, kdy tu v slzách štkám
+_Za hořkých nocí, kdy tu v slzách štkám_
 
 _a volám k nebi, proč mě tolik kruší,  
 roj jasných jisker zažíhá mou duši  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Na cestě zpět, má paní,
+_Na cestě zpět, má paní,_
 
 _mé myšlenky, jež nezadrží nic,  
 jdou napřed tam, kde nebe září víc,  

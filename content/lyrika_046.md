@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Květ, který pro mne máte,
+_Květ, který pro mne máte,_
 
 _vzdech, který za mnou z lásky posíláte,  
 stisk rukou, jež se chvějí,  

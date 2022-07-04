@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Když přestal, Lásko, na můj sladký oheň
+_Když přestal, Lásko, na můj sladký oheň_
 
 _dýchat jak doposud ten tichý vánek,  
 kdo utiší můj láskyplný plamen?  

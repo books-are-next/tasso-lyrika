@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Když vzhlédnu ke hvězdám
+_Když vzhlédnu ke hvězdám_
 
 _a vidím, jak se snoubí,  
 tu otvírá se cela, v jejíž hloubi  

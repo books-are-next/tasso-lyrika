@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Jak Proteus či mág
+_Jak Proteus či mág_
 
 _mění se krása hned tak a hned tak:  
 hned hledí jasná, smavá,  

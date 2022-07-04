@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ach, milujte mě, drahá,
+_Ach, milujte mě, drahá,_
 
 _vždyť srdce mé se zdráhá  
 cokoli přijímat krom krmě lásky.  

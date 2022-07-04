@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Plote, jenž dělíš sady
+_Plote, jenž dělíš sady_
 
 _a mne od mého já,  
 tak krásná růže v tobě nezkvétá,  

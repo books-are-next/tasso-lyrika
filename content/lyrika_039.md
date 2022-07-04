@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ten strůmek, který na počátku máje
+_Ten strůmek, který na počátku máje_
 
 _přinesli z hor a plání, kde žil dřív,  
 teď šumí pro vás, a ač není živ,  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Na štíhlém čele chvěl se porozpleten
+_Na štíhlém čele chvěl se porozpleten_
 
 _zářící zlatý proud a tichý jas  
 překrásných očí nesl kraji květen  

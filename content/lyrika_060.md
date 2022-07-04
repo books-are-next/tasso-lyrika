@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Když je tu moje paní,
+_Když je tu moje paní,_
 
 _k čemupak je mi klidný, tichý čas?  
 Aby snad jela zas?  

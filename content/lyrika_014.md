@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Vánku, jenž tady tančíš kolem hravě
+_Vánku, jenž tady tančíš kolem hravě_
 
 _v zelených kšticích myrt a ve vavřínech,  
 jenž budíš něžné květy v lučních klínech  

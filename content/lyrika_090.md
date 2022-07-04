@@ -1,6 +1,6 @@
 ---
 title: Poznámky
-contentType: prose
+contentType: poetry
 ---
 
 <section>

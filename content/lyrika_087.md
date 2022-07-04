@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Je karneval a věrní milující
+_Je karneval a věrní milující_
 
 _halí své tváře v zrádných škraboškách  
 a slzy v smíchu, když tu hlaholící  

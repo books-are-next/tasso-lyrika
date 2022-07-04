@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Dáš-li mi, Lásko, jednou pohladit
+_Dáš-li mi, Lásko, jednou pohladit_
 
 _ten hladký úběl oněch jasných dlaní  
 a zblízka spatřit něhyplný třpyt  

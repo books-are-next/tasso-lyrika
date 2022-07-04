@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-V žárlivé lásce třeštím tisíc očí
+_V žárlivé lásce třeštím tisíc očí_
 
 _a tisíc uší v tichu napínám  
 a jen roj stvůr a vidin se mi točí  

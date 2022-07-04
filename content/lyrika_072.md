@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Život je hvozd, a klamné naděje
+_Život je hvozd, a klamné naděje_
 
 _jsou jeho stíny, rozkoše a slasti  
 jsou nastražené pasti  
