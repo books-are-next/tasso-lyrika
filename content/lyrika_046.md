@@ -7,13 +7,13 @@ contentType: poetry
 
 _Květ, který pro mne máte,_
 
-_vzdech, který za mnou z lásky posíláte,  
+vzdech, který za mnou z lásky posíláte,  
 stisk rukou, jež se chvějí,  
 jsou znamením, že nejsem bez nadějí.  
 Leč květ tak rychle hyne  
 a povzdech prchá, povzdech s větrem splyne.  
 Ten stisk však cítím zmámen  
 jak uštknutí, jak plamen,  
-takže mi krev hned mrzne a hned plane._
+takže mi krev hned mrzne a hned plane.
 
 </section>

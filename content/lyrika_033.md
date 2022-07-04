@@ -7,17 +7,17 @@ contentType: poetry
 
 _Seděl jsem jednou sám a samotinký_
 
-_ve stínu hustých kštic  
+ve stínu hustých kštic  
 palem a borovic  
 a tu jsem znenadání  
 uslyšel svoji paní  
-s někým si vyprávět._
+s někým si vyprávět.
 
 </section>
 
 <section>
 
-_V trávě a kvítí u studánky stály  
+V trávě a kvítí u studánky stály  
 dvě něžné víly nevídané krásy  
 a obě pěly, obě trylkovaly  
 jako ti ptáci, když se jaro hlásí.  
@@ -26,13 +26,13 @@ a na rtech sladký smích
 a v tvářích nach a sníh  
 a obě paže nahé:  
 byly mi stejně drahé,  
-byly jak krásný květ._
+byly jak krásný květ.
 
 </section>
 
 <section>
 
-_A jedna řekla: „Láska má víc síly  
+A jedna řekla: „Láska má víc síly  
 než dravá zvěř, než potok koncem zimy,  
 než oheň, který v slámě zapálili.  
 Láska si tropí z mého žalu šprýmy,  
@@ -41,13 +41,13 @@ protože nechci dál
 snášet ten prudký pal,  
 chci už jen hřát se lehce.  
 Můj hořký pláč však nechce  
-utišit žár mých běd.“_
+utišit žár mých běd.“
 
 </section>
 
 <section>
 
-_A druhá řekla: „Láska má víc něhy  
+A druhá řekla: „Láska má víc něhy  
 než něžný van, jenž v listí stromů zpívá,  
 jenž nechá loď stát před samými břehy  
 a jenom rákos lehce rozechvívá.  
@@ -56,13 +56,13 @@ v kalichu každý květ,
 než mana, nežli med —  
 a jenom tím mě souží,  
 že tak, jak srdce touží,  
-v něm nechce zahořet.“_
+v něm nechce zahořet.“
 
 </section>
 
 <section>
 
-_A obě řekly: „Láska, láska pouze,  
+A obě řekly: „Láska, láska pouze,  
 ať už zlá, prudká, nebo sladká, snivá,  
 dá štěstí ženě, která hyne v touze,  
 i když to tají, i když se s tím skrývá.  
@@ -71,6 +71,6 @@ a potok pramen zas,
 láska a touha v nás  
 pramení, pučí, raší  
 vždycky jen v lůně krásy:  
-ať žije dokud svět!“_
+ať žije dokud svět!“
 
 </section>

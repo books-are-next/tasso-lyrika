@@ -7,13 +7,13 @@ contentType: poetry
 
 _Jestli vás ve mně Láska_
 
-_maluje zas a zas,  
+maluje zas a zas,  
 proč malíři si říkám o obraz?  
 Proto, že i když mysl  
 vás v hloubi duše zří,  
 mé pohledy vás nikdy nespatří.  
 Když vás však nemám vskutku,  
 nechť aspoň mám váš stín,  
-abych vás viděl, když tu o vás sním._
+abych vás viděl, když tu o vás sním.
 
 </section>

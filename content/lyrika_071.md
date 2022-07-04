@@ -7,12 +7,12 @@ contentType: poetry
 
 _Hrdličko osamělá,_
 
-_štkáš pro tu, s níž jsi žila,  
+štkáš pro tu, s níž jsi žila,  
 a já zas pro tu, jež mi nepatřila.  
 Ubohá, ovdovělá,  
 ty s větve opadalé  
 a já zas pod stromem ji volám stále,  
 leč na mé naříkání  
-jen ranní vánek odpovídá v lkání._
+jen ranní vánek odpovídá v lkání.
 
 </section>

@@ -7,33 +7,33 @@ contentType: poetry
 
 _Viděl jsem na vás, nebo se mi zdálo,_
 
-_že vidím jasně na pobledlé záři  
+že vidím jasně na pobledlé záři  
 růží a lilií, jež máte v tváři,  
-že vaše srdce novou láskou vzplálo._
+že vaše srdce novou láskou vzplálo.
 
 </section>
 
 <section>
 
-_Tam, kde se jindy úsměv rozehraje,  
+Tam, kde se jindy úsměv rozehraje,  
 slyším teď tiché, roztoužené vzdechy,  
 ty věrné posly lásky bez útěchy,  
-při kterých myslím na vánky z bran ráje._
+při kterých myslím na vánky z bran ráje.
 
 </section>
 
 <section>
 
-_A tak já v touze, abych pravdu věděl,  
+A tak já v touze, abych pravdu věděl,  
 po tajích srdce slídím u vás kradí —  
-a přesto všecko jsem se nedozvěděl_
+a přesto všecko jsem se nedozvěděl
 
 </section>
 
 <section>
 
-_nic než to, že jím zmítá touha mládí:  
+nic než to, že jím zmítá touha mládí:  
 čí krása jala však tak krásnou duši,  
-to kromě ní, žel, nikdo nevytuší._
+to kromě ní, žel, nikdo nevytuší.
 
 </section>

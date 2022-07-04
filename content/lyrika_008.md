@@ -7,33 +7,33 @@ contentType: poetry
 
 _Viděl jsem vázat květy do kytice_
 
-_u řeky tu, již ctím jak nikdo snad;  
+u řeky tu, již ctím jak nikdo snad;  
 a u nohou jich v trávě měla více,  
-nežli jich mohla rukou natrhat._
+nežli jich mohla rukou natrhat.
 
 </section>
 
 <section>
 
-_Ve zlatých vlnách spadaly jí vlasy,  
+Ve zlatých vlnách spadaly jí vlasy,  
 z nichž Láska splétá na tisíce pout;  
 a její dech jak vánek tiše hasí  
-žár, jenž jí z očí nepřestává žhnout._
+žár, jenž jí z očí nepřestává žhnout.
 
 </section>
 
 <section>
 
-_I zastavil se proud a vody v něm,  
+I zastavil se proud a vody v něm,  
 jako by sám chtěl stát se zrcadlem  
-pro její vlas a pohled slastiplný._
+pro její vlas a pohled slastiplný.
 
 </section>
 
 <section>
 
-_A zdálo se, že říká: „Ach, pojď blíž,  
+A zdálo se, že říká: „Ach, pojď blíž,  
 a pokud se mnou jenom spokojíš,  
-ozař svým krásným obrazem mé vlny.“_
+ozař svým krásným obrazem mé vlny.“
 
 </section>

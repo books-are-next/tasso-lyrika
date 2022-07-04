@@ -7,7 +7,7 @@ contentType: poetry
 
 _Není to ona ručka,_
 
-_která mi vrhla, žel,  
+která mi vrhla, žel,  
 do srdce tolik plamenů a střel?  
 Teď leží bez pomoci  
 zde uprostřed mých dlaní  
@@ -16,6 +16,6 @@ už se mi neubrání.
 Teď mohu, Lásko, snad  
 trochu ji vytrestat  
 a za to sužování,  
-za každou ránu polibek jí dát._
+za každou ránu polibek jí dát.
 
 </section>

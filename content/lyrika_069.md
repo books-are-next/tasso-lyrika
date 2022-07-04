@@ -7,7 +7,7 @@ contentType: poetry
 
 _Má krásná Chloris sladce spala v lůžku_
 
-_a tisíc malých bůžků  
+a tisíc malých bůžků  
 se míhalo a hrálo kolem ní.  
 Jak jsem však bez ustání  
 v závrati hleděl na ni,  
@@ -15,6 +15,6 @@ ozval se hlas: „Co děláš, bláhový!
 Ztracený čas už nikdy nelapíš.“  
 A tu jsem se já lehce sklonil níž,  
 až k rtům, a zulíbal je —  
-a okusil tak všechny slasti ráje._
+a okusil tak všechny slasti ráje.
 
 </section>

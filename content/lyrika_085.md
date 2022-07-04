@@ -7,33 +7,33 @@ contentType: poetry
 
 _Ať zvítězí už tedy osud zlý,_
 
-_musím-li jednou padnout pod bědami,  
+musím-li jednou padnout pod bědami,  
 ať zvítězí a ověnčí své chrámy  
-mým klidem, blahem jako trofejí._
+mým klidem, blahem jako trofejí.
 
 </section>
 
 <section>
 
-_On, který vyvrátil a strhl v prach  
+On, který vyvrátil a strhl v prach  
 tisíce velkých, slavných imperií,  
 chlubí se nyní strastmi, v kterých žiji,  
-a kochá se v mých krutých útrapách._
+a kochá se v mých krutých útrapách.
 
 </section>
 
 <section>
 
-_Mění snad svoji povahu a zvyky,  
+Mění snad svoji povahu a zvyky,  
 protože měním svůj smích v pláč a vzlyky?  
-A mám snad jásat, navždy zatracen?_
+A mám snad jásat, navždy zatracen?
 
 </section>
 
 <section>
 
-_Plač, smutná duše, plač, a tvoje slzy  
+Plač, smutná duše, plač, a tvoje slzy  
 nechť tekou proudem, jenž se stane brzy  
-tady v tom pekle druhým Kokytem._
+tady v tom pekle druhým Kokytem.
 
 </section>

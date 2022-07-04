@@ -7,33 +7,33 @@ contentType: poetry
 
 _Sotva se úsvit brzy ráno vzbudí_
 
-_a začne zhlížet v stříbře vod a řek,  
+a začne zhlížet v stříbře vod a řek,  
 zavzdychá v listí tichý větérek  
-a s ním i srdce, bušící v mé hrudi._
+a s ním i srdce, bušící v mé hrudi.
 
 </section>
 
 <section>
 
-_Hledám své jitro, a když ke mně zvedne  
+Hledám své jitro, a když ke mně zvedne  
 své krásné zraky, hned se ztiším sám  
 a vzhlížím k poutům, kterým neprchám  
-a před nimiž i samo zlato bledne._
+a před nimiž i samo zlato bledne.
 
 </section>
 
 <section>
 
-_Vždyť ani zrána, v svěží jinovatce  
+Vždyť ani zrána, v svěží jinovatce  
 se nezatřpytí na nebi tak sladce  
-vlas krásné Eos, když se zvedne už,_
+vlas krásné Eos, když se zvedne už,
 
 </section>
 
 <section>
 
-_jako vlas, jejž má paní kolem hlavy.  
+jako vlas, jejž má paní kolem hlavy.  
 Jí mladý milenec či starý muž  
-však nepřidává hany ani slávy._
+však nepřidává hany ani slávy.
 
 </section>
