@@ -7,9 +7,9 @@ contentType: poetry
 
 _Ty vaše polibky_
 
-_jsou sladké jak med včel  
+jsou sladké jak med včel  
 a palčivé jak z jejich žihadel.  
 A tak vždy od vás jedu  
-pln slasti — i pln jedu._
+pln slasti — i pln jedu.
 
 </section>

@@ -7,7 +7,7 @@ contentType: poetry
 
 _Když vzhlédnu ke hvězdám_
 
-_a vidím, jak se snoubí,  
+a vidím, jak se snoubí,  
 tu otvírá se cela, v jejíž hloubi  
 příroda těžce kruší  
 ubohou moji duši  
@@ -17,6 +17,6 @@ k těm hvězdám vašich očí,
 a když se s láskou ke mně pootočí,  
 tu otvírá se zcela  
 ta ještě horší cela  
-odluky od vás, zraky plné světla._
+odluky od vás, zraky plné světla.
 
 </section>

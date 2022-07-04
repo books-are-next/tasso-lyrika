@@ -7,33 +7,33 @@ contentType: poetry
 
 _Prastarý bože, okřídlený Čase,_
 
-_zrozený s hvězdami a se sluncem,  
+zrozený s hvězdami a se sluncem,  
 ty, jenž se míháš hned tam a hned sem,  
-ty, jenž vše boříš a vše stavíš zase,_
+ty, jenž vše boříš a vše stavíš zase,
 
 </section>
 
 <section>
 
-_mé srdce, které hyne plné vzdechů  
+mé srdce, které hyne plné vzdechů  
 a nedokáže vzdor všem snahám střást  
 se sebe jednu jedinou svou strast,  
-nemá už nic než tebe na útěchu._
+nemá už nic než tebe na útěchu.
 
 </section>
 
 <section>
 
-_Vypleň už z něho myšlenky a chtění,  
+Vypleň už z něho myšlenky a chtění,  
 zalij mé rány lékem zapomnění,  
-zažeň lži, které hýbou palácem,_
+zažeň lži, které hýbou palácem,
 
 </section>
 
 <section>
 
-_a vynes pravdu z hloubi na hladinu  
+a vynes pravdu z hloubi na hladinu  
 a bez závoje, beze všeho stínu  
-ji ukaž nádhernou a nahou všem._
+ji ukaž nádhernou a nahou všem.
 
 </section>

@@ -7,33 +7,33 @@ contentType: poetry
 
 _Vánku, jenž tady tančíš kolem hravě_
 
-_v zelených kšticích myrt a ve vavřínech,  
+v zelených kšticích myrt a ve vavřínech,  
 jenž budíš něžné květy v lučních klínech  
-a sladce loupíš vůni poupat v trávě,_
+a sladce loupíš vůni poupat v trávě,
 
 </section>
 
 <section>
 
-_jestli tvé srdce někdy s někým cítí,  
+jestli tvé srdce někdy s někým cítí,  
 zanech už toho svého laškování  
 a zamiř křídly tam, kde moje paní  
-u Pádu kráčí po trávě a kvítí._
+u Pádu kráčí po trávě a kvítí.
 
 </section>
 
 <section>
 
-_A zanes ve svém měkkém klíně v mžiku  
+A zanes ve svém měkkém klíně v mžiku  
 tenhle proud vzdechů, výčitek a vzlyků  
-tam, kam už dřív šel celý proud mých dum._
+tam, kam už dřív šel celý proud mých dum.
 
 </section>
 
 <section>
 
-_A za ně jí pak tvoje ruka může  
+A za ně jí pak tvoje ruka může  
 uzmout z rtů vůni, sladší nežli z růže  
-a přinést ji mé touze za pokrm._
+a přinést ji mé touze za pokrm.
 
 </section>

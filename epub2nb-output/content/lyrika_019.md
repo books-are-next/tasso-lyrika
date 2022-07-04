@@ -7,33 +7,33 @@ contentType: poetry
 
 _Jako si Alfeus už věky věků_
 
-_hnán láskou razí cestu v hlubinách  
+hnán láskou razí cestu v hlubinách  
 k své plaché nymfě, jež se na útěku  
-změnila v pramen, majíc z něho strach,_
+změnila v pramen, majíc z něho strach,
 
 </section>
 
 <section>
 
-_a jako dává listy, květy, plody  
+a jako dává listy, květy, plody  
 pobledlým olivám, jež zavlaží,  
 a aniž smísil s ním své sladké vody,  
-jde hořkým mořem nepoznán až k ní,_
+jde hořkým mořem nepoznán až k ní,
 
 </section>
 
 <section>
 
-_tak i má duše, kudykoli chodí,  
+tak i má duše, kudykoli chodí,  
 hledá mou paní jen a bez ustání  
-jí dává darem chválu, zpěv a mír;_
+jí dává darem chválu, zpěv a mír;
 
 </section>
 
 <section>
 
-_a moje mysl, třebaže se brodí  
+a moje mysl, třebaže se brodí  
 jen mořem běd a bouřlivého štkání,  
-nestrhne její slast v svůj hořký vír._
+nestrhne její slast v svůj hořký vír.
 
 </section>

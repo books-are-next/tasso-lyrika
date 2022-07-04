@@ -7,33 +7,33 @@ contentType: poetry
 
 _Zrcadlo z křišťálu jsem dal své paní,_
 
-_aby se podívala na svůj jas a svit,  
+aby se podívala na svůj jas a svit,  
 jejž moje mysl touží zpodobit  
-a jejž chci zachytit v svém veršování._
+a jejž chci zachytit v svém veršování.
 
 </section>
 
 <section>
 
-_Když uviděla svoji vzácnou krásu,  
+Když uviděla svoji vzácnou krásu,  
 nemohla od ní oči odtrhnout  
 a jenom pila něžný, měkký proud  
-záře svých zraků, rtů a zlatých vlasů._
+záře svých zraků, rtů a zlatých vlasů.
 
 </section>
 
 <section>
 
-_A jako by si říkala: „Teď vím,  
+A jako by si říkala: „Teď vím,  
 proč moje krása, proč má velká sláva  
-takový oheň v očích zažíhává!“_
+takový oheň v očích zažíhává!“
 
 </section>
 
 <section>
 
-_Tak, ač v nich viděla vždy žert a šprým,  
+Tak, ač v nich viděla vždy žert a šprým,  
 teď uznala mé rány za pravdivé,  
-vidouc zbroj, před níž měl jsem prchnout dříve._
+vidouc zbroj, před níž měl jsem prchnout dříve.
 
 </section>

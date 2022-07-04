@@ -7,12 +7,12 @@ contentType: poetry
 
 _V té dálce, srdce mé,_
 
-_už po sté snad má bolest vraždí mne.  
+už po sté snad má bolest vraždí mne.  
 Vždyť mně ten odjezd vzal,  
 ach, duši z úst, a když naň pomyslím,  
 tu jako by mi bral  
 i život z žil a všecek rozum s ním.  
 Ó jaká bída běd!  
-Šťastný, kdo zemřel jedenkrát a hned._
+Šťastný, kdo zemřel jedenkrát a hned.
 
 </section>

@@ -7,10 +7,10 @@ contentType: poetry
 
 _Není-li milost pro ty,_
 
-_co čekají a v slzách prosí o ni,  
+co čekají a v slzách prosí o ni,  
 dejte ji aspoň tomu,  
 kdo o ni nežadoní:  
 jen mlčení ať plaše  
-v pokoře prosí sladké srdce vaše._
+v pokoře prosí sladké srdce vaše.
 
 </section>

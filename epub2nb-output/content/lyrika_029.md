@@ -7,33 +7,33 @@ contentType: poetry
 
 _Tam, kde zdi, sloupy nebrání už zraku_
 
-_sledovat v noci jasné hvězdné roje,  
+sledovat v noci jasné hvězdné roje,  
 vychází Laura bez stuh, bez závoje  
-tak jako hvězda z hloubi temných mraků._
+tak jako hvězda z hloubi temných mraků.
 
 </section>
 
 <section>
 
-_Ale když úsvit uhasí už stíny  
+Ale když úsvit uhasí už stíny  
 a vzbudí mne, jenž tady hořím tají,  
 když zdvihne vánky, když dá rosu kraji  
-a ptačí píseň zazní od houštiny,_
+a ptačí píseň zazní od houštiny,
 
 </section>
 
 <section>
 
-_vyjde mu vstříc, ach, s ještě větším jasem,  
+vyjde mu vstříc, ach, s ještě větším jasem,  
 takže i oráč začne plným hlasem  
-hnán Láskou hlaholit hned od svítání._
+hnán Láskou hlaholit hned od svítání.
 
 </section>
 
 <section>
 
-_A když se někdy slunce v řece zhlédne,  
+A když se někdy slunce v řece zhlédne,  
 z třpytící vody na ně nepohlédne  
-nikdy tak krásný obraz jako na ni._
+nikdy tak krásný obraz jako na ni.
 
 </section>

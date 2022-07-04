@@ -7,11 +7,11 @@ contentType: poetry
 
 _Chtěl bych být malá včela,_
 
-_která by bzučíc směla  
+která by bzučíc směla  
 z vás sát svůj med, má krásná, krutá paní.  
 Pak aspoň bílé ňadro, ne-li srdce,  
 mohl bych bodnout prudce  
 a v této sladké ráně  
-už pomstěn nechat život odevzdaně._
+už pomstěn nechat život odevzdaně.
 
 </section>

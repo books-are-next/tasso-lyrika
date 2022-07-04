@@ -7,7 +7,7 @@ contentType: poetry
 
 _Malý leč slavný synu,_
 
-_zrozený v lůně velkých Apenin,  
+zrozený v lůně velkých Apenin,  
 známý spíš pro své jméno než svůj proud,  
 já do družného klínu  
 tvých břehů přišel se svým trápením  
@@ -25,13 +25,13 @@ i když se před ní choulím bez ustání
 uprostřed hor i strání  
 a bloudím nocí stranou cest a lidí;  
 a buší do mne, ubohého, žel,  
-jako by měla očí, co má střel._
+jako by měla očí, co má střel.
 
 </section>
 
 <section>
 
-_Ode dne, od hodiny,  
+Ode dne, od hodiny,  
 kdy po prvé jsem spatřil tento svět,  
 jenž pro mne pouze chmury v klíně má,  
 stal jsem se bez své viny  
@@ -50,13 +50,13 @@ vždyť já se nikdy nevrátil už zpátky
 do sladkých paží matky,  
 jež by mě v sobě sevřely a skryly;  
 jak Ascanius, jako Camilla  
-bloudil jsem s otcem světem plným zla._
+bloudil jsem s otcem světem plným zla.
 
 </section>
 
 <section>
 
-_Na této pouti světem  
+Na této pouti světem  
 jsem jako psanec v nouzi dorůstal  
 a poznával tak záhy tíhu běd:  
 vždyť se zrajícím květem  
@@ -76,6 +76,6 @@ a tím svým nářkem hřával
 lože i hrob. Teď, když ti sféry hrají,  
 ti však už náleží jen čest a klid:  
 musím svůj žal sám do dna vyprázdnit.  
-— — —_
+— — —
 
 </section>
