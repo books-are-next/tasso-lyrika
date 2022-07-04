@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Na nebi vidím hvězdy, míhající
+_Na nebi vidím hvězdy, míhající_
 
 _a lesknoucí se víc než dosavad,  
 jako by to byl třpyt těch živých svící,  

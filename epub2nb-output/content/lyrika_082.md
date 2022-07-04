@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Lže pověst, kterou šíří ničemníci
+_Lže pověst, kterou šíří ničemníci_
 
 _a která jde a roste pořád dál;  
 lže jazyk, který dokázal to říci  

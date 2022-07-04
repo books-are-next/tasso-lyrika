@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Jestliže na mně chcete po tom všem
+_Jestliže na mně chcete po tom všem_
 
 _ukrutném utrpení  
 tím pokorným a sladkým šepotem  

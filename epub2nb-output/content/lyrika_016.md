@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Zrcadlo z křišťálu jsem dal své paní,
+_Zrcadlo z křišťálu jsem dal své paní,_
 
 _aby se podívala na svůj jas a svit,  
 jejž moje mysl touží zpodobit  

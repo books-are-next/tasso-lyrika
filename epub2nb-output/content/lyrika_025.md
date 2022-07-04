@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Viděl jsem na vás, nebo se mi zdálo,
+_Viděl jsem na vás, nebo se mi zdálo,_
 
 _že vidím jasně na pobledlé záři  
 růží a lilií, jež máte v tváři,  

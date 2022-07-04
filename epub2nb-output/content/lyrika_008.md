@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Viděl jsem vázat květy do kytice
+_Viděl jsem vázat květy do kytice_
 
 _u řeky tu, již ctím jak nikdo snad;  
 a u nohou jich v trávě měla více,  

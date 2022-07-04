@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-I kdyby každý trn
+_I kdyby každý trn_
 
 _byl tvrdá, ostrá střela,  
 i kdyby každý list a každý květ  

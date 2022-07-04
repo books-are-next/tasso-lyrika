@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Srdce jste na mně chtěla,
+_Srdce jste na mně chtěla,_
 
 _a když jste odcházela,  
 své jste mi nenechala místo něho.  

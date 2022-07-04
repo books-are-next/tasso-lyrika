@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Spatřil bůh lásky něčí vlas a řekl:
+_Spatřil bůh lásky něčí vlas a řekl:_
 
 _„Ach, to je krása krás!“  
 Potom však uviděl váš zlatý vlas  

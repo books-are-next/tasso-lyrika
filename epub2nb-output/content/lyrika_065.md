@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Vy chcete, blaho moje,
+_Vy chcete, blaho moje,_
 
 _aby mě zabil žal,  
 a proto mě týráte stále dál.  

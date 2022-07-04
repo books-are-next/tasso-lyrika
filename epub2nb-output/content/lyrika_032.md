@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Slyš, vlny šepotají
+_Slyš, vlny šepotají_
 
 _a listí chví se v háji  
 pod jitřním vánkem na stromech a v křoví  

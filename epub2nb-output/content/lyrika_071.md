@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Hrdličko osamělá,
+_Hrdličko osamělá,_
 
 _štkáš pro tu, s níž jsi žila,  
 a já zas pro tu, jež mi nepatřila.  

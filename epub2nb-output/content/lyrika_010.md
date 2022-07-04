@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Krásná je paní, když jí vánek sladce
+_Krásná je paní, když jí vánek sladce_
 
 _přede mnou vzdouvá krásný zlatý vlas,  
 když bloudí zraky a když jejich jas  

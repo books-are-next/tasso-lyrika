@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Co se to všude chvěje
+_Co se to všude chvěje_
 
 _za slzy, za krůpěje,  
 které jsem viděl padat z pláště tmy  

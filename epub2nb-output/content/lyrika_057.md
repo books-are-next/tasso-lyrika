@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ta běloskvoucí ručka,
+_Ta běloskvoucí ručka,_
 
 _jež nutí květy kvést i vprostřed zimy,  
 mě stále svírá pouty lehounkými.  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Láska chce, abych věčně
+_Láska chce, abych věčně_
 
 _miloval mladou kůru,  
 která se vine po tom lauru vzhůru,  

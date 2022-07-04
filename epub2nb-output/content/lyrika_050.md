@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Když jsem se díval zmámen,
+_Když jsem se díval zmámen,_
 
 _do krásných, žhoucích zřítelnic své paní,  
 dva skřítci jako plamen  

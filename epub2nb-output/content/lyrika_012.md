@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ach, nevydržím dlouho
+_Ach, nevydržím dlouho_
 
 _daleko od vás, vy má sladká touho,  
 tak mě tu zas a zas  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Háje a řeky mlčí
+_Háje a řeky mlčí_
 
 _a moře také sní,  
 utichly větry, lehly do slují  

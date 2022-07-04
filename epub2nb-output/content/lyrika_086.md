@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Prastarý bože, okřídlený Čase,
+_Prastarý bože, okřídlený Čase,_
 
 _zrozený s hvězdami a se sluncem,  
 ty, jenž se míháš hned tam a hned sem,  

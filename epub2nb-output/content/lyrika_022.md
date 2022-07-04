@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Žil jsem — a Láska s blahou Nadějí
+_Žil jsem — a Láska s blahou Nadějí_
 
 _mě zprvu vedly cestou plnou kvítí;  
 teď ale Naděj prchla a mé žití,  

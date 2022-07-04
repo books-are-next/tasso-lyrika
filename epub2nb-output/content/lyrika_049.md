@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Tak jak jste krásná vy,
+_Tak jak jste krásná vy,_
 
 _tak jsem já žárlivý,  
 až ztrácím odvahu dál ve vás doufat.  

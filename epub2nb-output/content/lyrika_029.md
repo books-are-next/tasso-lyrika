@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Tam, kde zdi, sloupy nebrání už zraku
+_Tam, kde zdi, sloupy nebrání už zraku_
 
 _sledovat v noci jasné hvězdné roje,  
 vychází Laura bez stuh, bez závoje  

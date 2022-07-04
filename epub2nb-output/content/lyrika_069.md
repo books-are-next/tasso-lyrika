@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Má krásná Chloris sladce spala v lůžku
+_Má krásná Chloris sladce spala v lůžku_
 
 _a tisíc malých bůžků  
 se míhalo a hrálo kolem ní.  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-V té dálce, lásko má,
+_V té dálce, lásko má,_
 
 _už nemám život, už to nejsem já,  
 už nejsem, co jsem byl,  

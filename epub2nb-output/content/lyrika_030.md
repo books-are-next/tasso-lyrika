@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Pastevče, který jdeš tou noční tmou
+_Pastevče, který jdeš tou noční tmou_
 
 _snad zapálit si svou louč uhaslou,  
 neber si křemen, ocílku a troud.  

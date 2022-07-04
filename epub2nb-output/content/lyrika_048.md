@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Třebaže ty, závistná žárlivosti,
+_Třebaže ty, závistná žárlivosti,_
 
 _sty a sty očí slídíš,  
 celé mé štěstí stejně neuvidíš.  

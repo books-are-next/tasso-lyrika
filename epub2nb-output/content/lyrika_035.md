@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Jestli vás ve mně Láska
+_Jestli vás ve mně Láska_
 
 _maluje zas a zas,  
 proč malíři si říkám o obraz?  

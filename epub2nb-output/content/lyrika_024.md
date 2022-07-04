@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Až spatřím v tom svém rozevlátém vlasu
+_Až spatřím v tom svém rozevlátém vlasu_
 
 _studený sníh a jíní řeřavět,  
 až světlo mého dne, teď v plném jasu,  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ne, žádné květy v háji,
+_Ne, žádné květy v háji,_
 
 _žádné se nerdívají  
 jak rty mé paní, rudé jako krev,  

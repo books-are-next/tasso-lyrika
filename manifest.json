@@ -1,0 +1,1894 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Lyrika",
+  "author": "Torquato Tasso",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "tasso-lyrika-6d898ce",
+  "revision": "6d898ce",
+  "readingOrder": [
+    "promo.html",
+    "lyrika_005.html",
+    "lyrika_006.html",
+    "lyrika_007.html",
+    "lyrika_008.html",
+    "lyrika_009.html",
+    "lyrika_010.html",
+    "lyrika_011.html",
+    "lyrika_012.html",
+    "lyrika_013.html",
+    "lyrika_014.html",
+    "lyrika_015.html",
+    "lyrika_016.html",
+    "lyrika_017.html",
+    "lyrika_018.html",
+    "lyrika_019.html",
+    "lyrika_020.html",
+    "lyrika_021.html",
+    "lyrika_022.html",
+    "lyrika_023.html",
+    "lyrika_024.html",
+    "lyrika_025.html",
+    "lyrika_026.html",
+    "lyrika_027.html",
+    "lyrika_028.html",
+    "lyrika_029.html",
+    "lyrika_030.html",
+    "lyrika_031.html",
+    "lyrika_032.html",
+    "lyrika_033.html",
+    "lyrika_034.html",
+    "lyrika_035.html",
+    "lyrika_036.html",
+    "lyrika_037.html",
+    "lyrika_038.html",
+    "lyrika_039.html",
+    "lyrika_040.html",
+    "lyrika_041.html",
+    "lyrika_042.html",
+    "lyrika_043.html",
+    "lyrika_044.html",
+    "lyrika_045.html",
+    "lyrika_046.html",
+    "lyrika_047.html",
+    "lyrika_048.html",
+    "lyrika_049.html",
+    "lyrika_050.html",
+    "lyrika_051.html",
+    "lyrika_052.html",
+    "lyrika_053.html",
+    "lyrika_054.html",
+    "lyrika_055.html",
+    "lyrika_056.html",
+    "lyrika_057.html",
+    "lyrika_058.html",
+    "lyrika_059.html",
+    "lyrika_060.html",
+    "lyrika_061.html",
+    "lyrika_062.html",
+    "lyrika_063.html",
+    "lyrika_064.html",
+    "lyrika_065.html",
+    "lyrika_066.html",
+    "lyrika_067.html",
+    "lyrika_068.html",
+    "lyrika_069.html",
+    "lyrika_070.html",
+    "lyrika_071.html",
+    "lyrika_072.html",
+    "lyrika_073.html",
+    "lyrika_074.html",
+    "lyrika_075.html",
+    "lyrika_076.html",
+    "lyrika_077.html",
+    "lyrika_078.html",
+    "lyrika_079.html",
+    "lyrika_080.html",
+    "lyrika_081.html",
+    "lyrika_082.html",
+    "lyrika_083.html",
+    "lyrika_084.html",
+    "lyrika_085.html",
+    "lyrika_086.html",
+    "lyrika_087.html",
+    "lyrika_088.html",
+    "lyrika_089.html",
+    "lyrika_090.html",
+    "lyrika_091.html",
+    "colophon.html"
+  ],
+  "generatedAt": {
+    "date": "Mon Jul 04 2022 14:17:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1656944259837
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "lyrika_005.html",
+      "toc": []
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_005.html",
+      "words": 5,
+      "chars": 41,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "lyrika_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "lyrika_006.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "lyrika_005.html",
+      "next": "lyrika_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_007.html",
+      "words": 87,
+      "chars": 487,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 3,
+      "prev": "lyrika_006.html",
+      "next": "lyrika_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_008.html",
+      "words": 95,
+      "chars": 474,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 4,
+      "prev": "lyrika_007.html",
+      "next": "lyrika_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_009.html",
+      "words": 62,
+      "chars": 305,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 5,
+      "prev": "lyrika_008.html",
+      "next": "lyrika_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_010.html",
+      "words": 92,
+      "chars": 487,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 6,
+      "prev": "lyrika_009.html",
+      "next": "lyrika_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_011.html",
+      "words": 47,
+      "chars": 219,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 7,
+      "prev": "lyrika_010.html",
+      "next": "lyrika_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_012.html",
+      "words": 50,
+      "chars": 229,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 8,
+      "prev": "lyrika_011.html",
+      "next": "lyrika_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_013.html",
+      "words": 51,
+      "chars": 241,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 9,
+      "prev": "lyrika_012.html",
+      "next": "lyrika_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_014.html",
+      "words": 99,
+      "chars": 494,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 10,
+      "prev": "lyrika_013.html",
+      "next": "lyrika_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_015.html",
+      "words": 92,
+      "chars": 467,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 11,
+      "prev": "lyrika_014.html",
+      "next": "lyrika_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_016.html",
+      "words": 92,
+      "chars": 482,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 12,
+      "prev": "lyrika_015.html",
+      "next": "lyrika_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_017.html",
+      "words": 86,
+      "chars": 469,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 13,
+      "prev": "lyrika_016.html",
+      "next": "lyrika_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_018.html",
+      "words": 50,
+      "chars": 248,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 14,
+      "prev": "lyrika_017.html",
+      "next": "lyrika_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_019.html",
+      "words": 91,
+      "chars": 459,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 15,
+      "prev": "lyrika_018.html",
+      "next": "lyrika_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_020.html",
+      "words": 48,
+      "chars": 225,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 16,
+      "prev": "lyrika_019.html",
+      "next": "lyrika_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_021.html",
+      "words": 50,
+      "chars": 226,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 17,
+      "prev": "lyrika_020.html",
+      "next": "lyrika_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_022.html",
+      "words": 91,
+      "chars": 475,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 18,
+      "prev": "lyrika_021.html",
+      "next": "lyrika_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_023.html",
+      "words": 90,
+      "chars": 468,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 19,
+      "prev": "lyrika_022.html",
+      "next": "lyrika_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_024.html",
+      "words": 90,
+      "chars": 484,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 20,
+      "prev": "lyrika_023.html",
+      "next": "lyrika_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_025.html",
+      "words": 95,
+      "chars": 489,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 21,
+      "prev": "lyrika_024.html",
+      "next": "lyrika_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_026.html",
+      "words": 94,
+      "chars": 491,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 22,
+      "prev": "lyrika_025.html",
+      "next": "lyrika_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_027.html",
+      "words": 95,
+      "chars": 467,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 23,
+      "prev": "lyrika_026.html",
+      "next": "lyrika_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "lyrika_028.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 24,
+      "prev": "lyrika_027.html",
+      "next": "lyrika_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_029.html",
+      "words": 93,
+      "chars": 494,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 25,
+      "prev": "lyrika_028.html",
+      "next": "lyrika_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_030.html",
+      "words": 51,
+      "chars": 272,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 26,
+      "prev": "lyrika_029.html",
+      "next": "lyrika_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_031.html",
+      "words": 93,
+      "chars": 472,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 27,
+      "prev": "lyrika_030.html",
+      "next": "lyrika_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_032.html",
+      "words": 67,
+      "chars": 338,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 28,
+      "prev": "lyrika_031.html",
+      "next": "lyrika_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_033.html",
+      "words": 246,
+      "chars": 1231,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 29,
+      "prev": "lyrika_032.html",
+      "next": "lyrika_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_034.html",
+      "words": 43,
+      "chars": 230,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 30,
+      "prev": "lyrika_033.html",
+      "next": "lyrika_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_035.html",
+      "words": 48,
+      "chars": 231,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 31,
+      "prev": "lyrika_034.html",
+      "next": "lyrika_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_036.html",
+      "words": 57,
+      "chars": 262,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 32,
+      "prev": "lyrika_035.html",
+      "next": "lyrika_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_037.html",
+      "words": 259,
+      "chars": 1397,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 33,
+      "prev": "lyrika_036.html",
+      "next": "lyrika_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_038.html",
+      "words": 43,
+      "chars": 227,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 34,
+      "prev": "lyrika_037.html",
+      "next": "lyrika_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_039.html",
+      "words": 101,
+      "chars": 488,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 35,
+      "prev": "lyrika_038.html",
+      "next": "lyrika_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_040.html",
+      "words": 56,
+      "chars": 304,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 36,
+      "prev": "lyrika_039.html",
+      "next": "lyrika_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "lyrika_041.html",
+      "words": 1,
+      "chars": 3,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 37,
+      "prev": "lyrika_040.html",
+      "next": "lyrika_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_042.html",
+      "words": 94,
+      "chars": 450,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 38,
+      "prev": "lyrika_041.html",
+      "next": "lyrika_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_043.html",
+      "words": 68,
+      "chars": 343,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 39,
+      "prev": "lyrika_042.html",
+      "next": "lyrika_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_044.html",
+      "words": 47,
+      "chars": 228,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 40,
+      "prev": "lyrika_043.html",
+      "next": "lyrika_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_045.html",
+      "words": 30,
+      "chars": 143,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 41,
+      "prev": "lyrika_044.html",
+      "next": "lyrika_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_046.html",
+      "words": 52,
+      "chars": 284,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 42,
+      "prev": "lyrika_045.html",
+      "next": "lyrika_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_047.html",
+      "words": 46,
+      "chars": 255,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 43,
+      "prev": "lyrika_046.html",
+      "next": "lyrika_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_048.html",
+      "words": 47,
+      "chars": 230,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 44,
+      "prev": "lyrika_047.html",
+      "next": "lyrika_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_049.html",
+      "words": 48,
+      "chars": 238,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 45,
+      "prev": "lyrika_048.html",
+      "next": "lyrika_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_050.html",
+      "words": 49,
+      "chars": 302,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 46,
+      "prev": "lyrika_049.html",
+      "next": "lyrika_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_051.html",
+      "words": 52,
+      "chars": 252,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 47,
+      "prev": "lyrika_050.html",
+      "next": "lyrika_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_052.html",
+      "words": 36,
+      "chars": 173,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 48,
+      "prev": "lyrika_051.html",
+      "next": "lyrika_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_053.html",
+      "words": 37,
+      "chars": 190,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 49,
+      "prev": "lyrika_052.html",
+      "next": "lyrika_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_054.html",
+      "words": 26,
+      "chars": 116,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 50,
+      "prev": "lyrika_053.html",
+      "next": "lyrika_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_055.html",
+      "words": 40,
+      "chars": 201,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 51,
+      "prev": "lyrika_054.html",
+      "next": "lyrika_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_056.html",
+      "words": 39,
+      "chars": 191,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 52,
+      "prev": "lyrika_055.html",
+      "next": "lyrika_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_057.html",
+      "words": 37,
+      "chars": 209,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 53,
+      "prev": "lyrika_056.html",
+      "next": "lyrika_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_058.html",
+      "words": 42,
+      "chars": 204,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 54,
+      "prev": "lyrika_057.html",
+      "next": "lyrika_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_059.html",
+      "words": 45,
+      "chars": 236,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 55,
+      "prev": "lyrika_058.html",
+      "next": "lyrika_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_060.html",
+      "words": 46,
+      "chars": 209,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 56,
+      "prev": "lyrika_059.html",
+      "next": "lyrika_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_061.html",
+      "words": 57,
+      "chars": 267,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 57,
+      "prev": "lyrika_060.html",
+      "next": "lyrika_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_062.html",
+      "words": 66,
+      "chars": 334,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 58,
+      "prev": "lyrika_061.html",
+      "next": "lyrika_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_063.html",
+      "words": 43,
+      "chars": 249,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 59,
+      "prev": "lyrika_062.html",
+      "next": "lyrika_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_064.html",
+      "words": 49,
+      "chars": 236,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 60,
+      "prev": "lyrika_063.html",
+      "next": "lyrika_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_065.html",
+      "words": 45,
+      "chars": 221,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 61,
+      "prev": "lyrika_064.html",
+      "next": "lyrika_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_066.html",
+      "words": 41,
+      "chars": 218,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 62,
+      "prev": "lyrika_065.html",
+      "next": "lyrika_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_067.html",
+      "words": 90,
+      "chars": 425,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 63,
+      "prev": "lyrika_066.html",
+      "next": "lyrika_068.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_068.html",
+      "words": 90,
+      "chars": 421,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 64,
+      "prev": "lyrika_067.html",
+      "next": "lyrika_069.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_069.html",
+      "words": 59,
+      "chars": 289,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 65,
+      "prev": "lyrika_068.html",
+      "next": "lyrika_070.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_070.html",
+      "words": 49,
+      "chars": 253,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 66,
+      "prev": "lyrika_069.html",
+      "next": "lyrika_071.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_071.html",
+      "words": 41,
+      "chars": 201,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 67,
+      "prev": "lyrika_070.html",
+      "next": "lyrika_072.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_072.html",
+      "words": 61,
+      "chars": 312,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 68,
+      "prev": "lyrika_071.html",
+      "next": "lyrika_073.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_073.html",
+      "words": 95,
+      "chars": 470,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 69,
+      "prev": "lyrika_072.html",
+      "next": "lyrika_074.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_074.html",
+      "words": 35,
+      "chars": 177,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 70,
+      "prev": "lyrika_073.html",
+      "next": "lyrika_075.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_075.html",
+      "words": 40,
+      "chars": 193,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 71,
+      "prev": "lyrika_074.html",
+      "next": "lyrika_076.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_076.html",
+      "words": 30,
+      "chars": 144,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 72,
+      "prev": "lyrika_075.html",
+      "next": "lyrika_077.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_077.html",
+      "words": 44,
+      "chars": 204,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 73,
+      "prev": "lyrika_076.html",
+      "next": "lyrika_078.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_078.html",
+      "words": 38,
+      "chars": 201,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 74,
+      "prev": "lyrika_077.html",
+      "next": "lyrika_079.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_079.html",
+      "words": 35,
+      "chars": 181,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 75,
+      "prev": "lyrika_078.html",
+      "next": "lyrika_080.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_080.html",
+      "words": 61,
+      "chars": 308,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 76,
+      "prev": "lyrika_079.html",
+      "next": "lyrika_081.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV",
+      "file": "lyrika_081.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 77,
+      "prev": "lyrika_080.html",
+      "next": "lyrika_082.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_082.html",
+      "words": 86,
+      "chars": 447,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 78,
+      "prev": "lyrika_081.html",
+      "next": "lyrika_083.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_083.html",
+      "words": 369,
+      "chars": 1904,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 79,
+      "prev": "lyrika_082.html",
+      "next": "lyrika_084.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_084.html",
+      "words": 315,
+      "chars": 1654,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 80,
+      "prev": "lyrika_083.html",
+      "next": "lyrika_085.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_085.html",
+      "words": 87,
+      "chars": 481,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 81,
+      "prev": "lyrika_084.html",
+      "next": "lyrika_086.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_086.html",
+      "words": 88,
+      "chars": 461,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 82,
+      "prev": "lyrika_085.html",
+      "next": "lyrika_087.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_087.html",
+      "words": 97,
+      "chars": 470,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 83,
+      "prev": "lyrika_086.html",
+      "next": "lyrika_088.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lyrika",
+      "file": "lyrika_088.html",
+      "words": 96,
+      "chars": 489,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 84,
+      "prev": "lyrika_087.html",
+      "next": "lyrika_089.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doslov",
+      "file": "lyrika_089.html",
+      "words": 1323,
+      "chars": 8514,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 85,
+      "prev": "lyrika_088.html",
+      "next": "lyrika_090.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doslov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky",
+      "file": "lyrika_090.html",
+      "words": 1197,
+      "chars": 7346,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 86,
+      "prev": "lyrika_089.html",
+      "next": "lyrika_091.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámka k překladu",
+      "file": "lyrika_091.html",
+      "words": 185,
+      "chars": 1178,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 87,
+      "prev": "lyrika_090.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámka k překladu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 145,
+      "chars": 932,
+      "ideas": 19,
+      "role": "colophon",
+      "order": null,
+      "prev": "lyrika_091.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 8756,
+      "chars": 48044,
+      "ideas": 1079
+    },
+    "chapters": {
+      "words": 8606,
+      "chars": 47083,
+      "ideas": 1056
+    }
+  }
+}

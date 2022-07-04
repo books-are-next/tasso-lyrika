@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Radosti pro mne není
+_Radosti pro mne není_
 
 _daleko od vás, vy mé utrpení,  
 ale můj duch se dává  

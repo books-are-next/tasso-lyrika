@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Odlétáš, vlaštovko, a pak se zas
+_Odlétáš, vlaštovko, a pak se zas_
 
 _každý rok v létě vracíš hnízdit k nám;  
 a v zimě hledáš méně drsný čas  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ať zvítězí už tedy osud zlý,
+_Ať zvítězí už tedy osud zlý,_
 
 _musím-li jednou padnout pod bědami,  
 ať zvítězí a ověnčí své chrámy  

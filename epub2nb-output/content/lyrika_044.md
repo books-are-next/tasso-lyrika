@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Smavé a krásné oči,
+_Smavé a krásné oči,_
 
 _ve vaší sladké tmě  
 se chlapec s lukem ukryl posměšně  

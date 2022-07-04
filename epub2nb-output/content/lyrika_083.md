@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Malý leč slavný synu,
+_Malý leč slavný synu,_
 
 _zrozený v lůně velkých Apenin,  
 známý spíš pro své jméno než svůj proud,  

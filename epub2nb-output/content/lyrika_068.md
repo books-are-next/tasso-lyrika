@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Miluji vás, jen že jste krásná, žel,
+_Miluji vás, jen že jste krásná, žel,_
 
 _a že to osud chtěl,  
 ne že bych čekal od vás, vy má slasti,  

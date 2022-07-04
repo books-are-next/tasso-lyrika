@@ -1,6 +1,6 @@
 ---
 title: I
-contentType: prose
+contentType: poetry
 ---
 
 

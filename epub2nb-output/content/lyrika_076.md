@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Není-li milost pro ty,
+_Není-li milost pro ty,_
 
 _co čekají a v slzách prosí o ni,  
 dejte ji aspoň tomu,  

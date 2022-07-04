@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Až jednou už ta světla a tu kštici
+_Až jednou už ta světla a tu kštici_
 
 _opustí jejich zlato, jejich třpyt,  
 až střely očí, dnes tak bodající,  

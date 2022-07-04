@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Býval jsem kdysi těm tvým očím milý,
+_Býval jsem kdysi těm tvým očím milý,_
 
 _ty moje slunce,  
 tvá láska a můj žhavý cit  

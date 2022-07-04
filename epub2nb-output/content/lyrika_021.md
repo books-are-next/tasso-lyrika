@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-V té dálce, srdce mé,
+_V té dálce, srdce mé,_
 
 _už po sté snad má bolest vraždí mne.  
 Vždyť mně ten odjezd vzal,  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Když mlčím, bolest roste,
+_Když mlčím, bolest roste,_
 
 _když mluvím, hněv se vzmáhá  
 ve vás, má paní mučivá a drahá.  

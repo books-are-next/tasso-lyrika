@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Je-li mé srdce s vámi, tak jak touží,
+_Je-li mé srdce s vámi, tak jak touží,_
 
 _kde moje duše krouží?  
 Snad s mými myšlenkami a ty zas  

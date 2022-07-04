@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ty vaše polibky
+_Ty vaše polibky_
 
 _jsou sladké jak med včel  
 a palčivé jak z jejich žihadel.  

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Není to ona ručka,
+_Není to ona ručka,_
 
 _která mi vrhla, žel,  
 do srdce tolik plamenů a střel?  

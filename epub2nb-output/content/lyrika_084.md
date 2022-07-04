@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-To, nad čím slepý dav vždy tolik jásá,
+_To, nad čím slepý dav vždy tolik jásá,_
 
 _jediná potěcha a starost žen,  
 míjivá, nade všecko křehká krása  

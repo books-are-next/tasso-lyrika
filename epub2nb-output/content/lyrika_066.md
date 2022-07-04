@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Přesladké okovy
+_Přesladké okovy_
 
 _slov plných líbeznosti,  
 kdo mne to spoutal a už nevyprostí?  

@@ -1,6 +1,6 @@
 ---
 title: Doslov
-contentType: prose
+contentType: poetry
 ---
 
 <section>

@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ve stínu stromů kdysi
+_Ve stínu stromů kdysi_
 
 _po prvé šeptali si  
 dva milenci a neslyšel je den,  

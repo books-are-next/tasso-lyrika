@@ -2,19 +2,19 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Lyrika
   identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
   author: Torquato Tasso
   publisher: Městská knihovna v Praze
   modified: '2021-08-12T00:00:00.000Z'
+  edition: poezie
+  publisherShort: mkp
+  contentType: poetry
 readingOrder:
   - promo.html
-  - lyrika_001.html
-  - lyrika_002.html
-  - lyrika_003.html
-  - lyrika_004.html
   - lyrika_005.html
   - lyrika_006.html
   - lyrika_007.html
@@ -102,11 +102,36 @@ readingOrder:
   - lyrika_089.html
   - lyrika_090.html
   - lyrika_091.html
-  - lyrika_092.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: lyrika_005.html
+        title: Věnování
+        hiddenTitle: true
+      - link: lyrika_006.html
+        title: I
+        hiddenTitle: false
+      - link: lyrika_028.html
+        title: II
+        hiddenTitle: false
+      - link: lyrika_041.html
+        title: III
+        hiddenTitle: false
+      - link: lyrika_081.html
+        title: IV
+        hiddenTitle: false
+      - link: lyrika_089.html
+        title: Doslov
+        hiddenTitle: false
+      - link: lyrika_090.html
+        title: Poznámky
+        hiddenTitle: false
+      - link: lyrika_091.html
+        title: "Poznámka k\_překladu"
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
@@ -114,5 +139,6 @@ static:
   - fonts
   - resources
   - template-images
+  - assets
   - favicon.png
 ---

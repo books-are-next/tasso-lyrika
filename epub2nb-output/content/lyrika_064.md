@@ -1,11 +1,11 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-Ať dává slunce noc,
+_Ať dává slunce noc,_
 
 _bělostná luna den,  
 zrození strast a smrt zas blaho všem;  
