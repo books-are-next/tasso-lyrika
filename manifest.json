@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "tasso-lyrika-5992528",
-  "revision": "5992528",
+  "identifier": "tasso-lyrika-2a6ff39",
+  "revision": "2a6ff39",
   "readingOrder": [
     "promo.html",
     "lyrika_005.html",
@@ -99,11 +99,11 @@
     "lyrika_089.html",
     "lyrika_090.html",
     "lyrika_091.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Jul 04 2022 14:27:27 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1656944847356
+    "date": "Thu Jul 07 2022 08:40:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183206984
   },
   "documents": [
     {
@@ -1847,7 +1847,7 @@
       "role": "chapter",
       "order": 87,
       "prev": "lyrika_090.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -1860,11 +1860,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 145,
       "chars": 932,
       "ideas": 19,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "lyrika_091.html",
       "next": null,
