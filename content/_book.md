@@ -102,7 +102,7 @@ readingOrder:
   - lyrika_089.html
   - lyrika_090.html
   - lyrika_091.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
