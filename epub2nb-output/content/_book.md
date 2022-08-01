@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2154-1
 readingOrder:
   - promo.html
   - lyrika_005.html
