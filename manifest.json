@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "tasso-lyrika-88ab21e",
-  "revision": "88ab21e",
+  "identifier": "tasso-lyrika-2067f67",
+  "revision": "2067f67",
   "readingOrder": [
     "promo.html",
     "lyrika_005.html",
@@ -102,8 +102,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 18:49:55 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664909395124
+    "date": "Tue Oct 04 2022 23:06:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664924795518
   },
   "documents": [
     {
