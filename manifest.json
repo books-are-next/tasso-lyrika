@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "tasso-lyrika-7bf2a24",
-  "revision": "7bf2a24",
+  "identifier": "tasso-lyrika-9409618",
+  "revision": "9409618",
   "readingOrder": [
     "promo.html",
     "lyrika_005.html",
@@ -102,8 +102,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:53:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150783154
+    "date": "Mon Oct 10 2022 15:44:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416667719
   },
   "documents": [
     {
@@ -1862,7 +1862,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 146,
-      "chars": 970,
+      "chars": 971,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -1882,7 +1882,7 @@
   "totals": {
     "all": {
       "words": 8757,
-      "chars": 48082,
+      "chars": 48083,
       "ideas": 1077
     },
     "chapters": {
